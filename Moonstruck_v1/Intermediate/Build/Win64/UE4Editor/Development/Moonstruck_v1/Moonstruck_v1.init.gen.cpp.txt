@@ -1,0 +1,3 @@
+E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\Definitions.Moonstruck_v1.h
+E:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
