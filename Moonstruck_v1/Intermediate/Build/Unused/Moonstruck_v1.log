@@ -1,0 +1,14 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+  Parsing headers for Moonstruck_v1Editor
+    Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Moonstruck_v1Editor in 6.3413781 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 12 processes...
+    [1/4] PositionReporter.cpp
+    [2/4] UE4Editor-Moonstruck_v1-0013.lib
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0013.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0013.exp
+    [3/4] UE4Editor-Moonstruck_v1-0013.dll
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0013.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0013.suppressed.exp
+    [4/4] Moonstruck_v1Editor.target
+  Total time in Parallel executor: 1.88 seconds
+  Total execution time: 8.93 seconds

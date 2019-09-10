@@ -90,4 +90,14 @@
       <Filter>Source\Moonstruck_v1</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\PositionReporter.h">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Moonstruck_v1\PositionReporter.cpp">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
