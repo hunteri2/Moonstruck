@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MOONSTRUCK_V1_OpenDoor_generated_h
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_RPC_WRAPPERS
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_INCLASS_NO_PURE_DECLS \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_RPC_WRAPPERS
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUOpenDoor(); \
 	friend struct Z_Construct_UClass_UOpenDoor_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(UOpenDoor)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_INCLASS \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesUOpenDoor(); \
 	friend struct Z_Construct_UClass_UOpenDoor_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UOpenDoor)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_STANDARD_CONSTRUCTORS \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UOpenDoor(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOpenDoor) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_ENHANCED_CONSTRUCTORS \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UOpenDoor(UOpenDoor&&); \
@@ -57,26 +57,31 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenDoor); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UOpenDoor)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_PRIVATE_PROPERTY_OFFSET
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_10_PROLOG
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_GENERATED_BODY_LEGACY \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__DoorAngle() { return STRUCT_OFFSET(UOpenDoor, DoorAngle); } \
+	FORCEINLINE static uint32 __PPO__PressurePlate() { return STRUCT_OFFSET(UOpenDoor, PressurePlate); } \
+	FORCEINLINE static uint32 __PPO__TokenItem() { return STRUCT_OFFSET(UOpenDoor, TokenItem); }
+
+
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_11_PROLOG
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_PRIVATE_PROPERTY_OFFSET \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_RPC_WRAPPERS \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_INCLASS \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_STANDARD_CONSTRUCTORS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_PRIVATE_PROPERTY_OFFSET \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_RPC_WRAPPERS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_INCLASS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_GENERATED_BODY \
+#define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_PRIVATE_PROPERTY_OFFSET \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_INCLASS_NO_PURE_DECLS \
-	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_13_ENHANCED_CONSTRUCTORS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_PRIVATE_PROPERTY_OFFSET \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_INCLASS_NO_PURE_DECLS \
+	Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

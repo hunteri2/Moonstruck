@@ -20,15 +20,20 @@ void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
 
+	//TriggerEvent();
+	
+}
+
+void UOpenDoor::TriggerEvent()//This is a poor name, however I'm not sure what specifically it will do. So remember to change later.
+{
 	// Find Owner of Object
 	AActor* Owner = GetOwner();
 
 	//
 	FRotator NewRotation = FRotator(0.0f, 90.0f, 0.0f);
-	
+
 	//Set rotation
 	Owner->SetActorRotation(NewRotation);
-	
 }
 
 
@@ -37,6 +42,12 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	// ...
+	//Poll the Trigger Volume
+	if (PressurePlate && PressurePlate->IsOverlappingActor(TokenItem)) 
+	{
+		TriggerEvent();
+	}
+	//If correct token is given trigger event
+
 }
 

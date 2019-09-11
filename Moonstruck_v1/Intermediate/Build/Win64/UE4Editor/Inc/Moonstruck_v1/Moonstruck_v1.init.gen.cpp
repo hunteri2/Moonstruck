@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMoonstruck_v1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xBBAC1E84,
+				0xF963E383,
 				0xC1C17D6B,
 				METADATA_PARAMS(nullptr, 0)
 			};
