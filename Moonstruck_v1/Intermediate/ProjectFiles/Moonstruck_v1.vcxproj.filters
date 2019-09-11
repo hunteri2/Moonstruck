@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Moonstruck_v1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{AC55AFF8-3F86-4683-91FB-DA0D12B3CAD9}</UniqueIdentifier>
+      <UniqueIdentifier>{D92A37AF-AC1D-4738-A6C9-96AAA67F8370}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Moonstruck_v1.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C69564D2-EA49-4A90-9937-844F4E422E7E}</UniqueIdentifier>
+      <UniqueIdentifier>{18C47ED8-EB1B-4BFC-8AB1-421586B04AAD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +24,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{0B5A9F11-C012-4308-8D13-270F3E6B0A12}</UniqueIdentifier>
+      <UniqueIdentifier>{E125E2D5-FBD4-4395-A193-86EF90E03B2A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{8C56C7A6-760D-4F5D-9694-E51B68B869BE}</UniqueIdentifier>
+      <UniqueIdentifier>{B28CE830-97CB-488D-9A69-F8295047DB4D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{2A14405E-63EE-485C-9041-68AD07980233}</UniqueIdentifier>
+      <UniqueIdentifier>{50FC1CC9-B541-493C-A956-95B2647E10C3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{D8A2A1F7-25FF-4603-82E2-53C48BE37115}</UniqueIdentifier>
+      <UniqueIdentifier>{4B4F551A-E316-4EAD-A8C6-F2158DE6CC0C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{A8094B16-A23B-4CE7-BEE9-9C9686C52EEB}</UniqueIdentifier>
+      <UniqueIdentifier>{34F325C5-F561-4857-95C7-1BB9B2538E0C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{43781C9C-DA49-4867-973F-4567EE20C6E2}</UniqueIdentifier>
+      <UniqueIdentifier>{FDB197FC-F89E-4766-816D-7302953DE6C1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{0F0B2429-A293-4D8E-9232-50BAF239C17C}</UniqueIdentifier>
+      <UniqueIdentifier>{1D9E9038-845E-4B39-AE3D-6EC92FE58E2B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{E4E19179-9F31-4F37-9175-55FC3AE08E51}</UniqueIdentifier>
+      <UniqueIdentifier>{1E9F7026-DB79-47F6-8A9A-C9F6E8811233}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\Moonstruck_v1">
-      <UniqueIdentifier>{BACC103E-F245-40CC-8A10-B70BF74D056E}</UniqueIdentifier>
+      <UniqueIdentifier>{F8BA9ADA-65B8-4DEF-AD08-52291F67B15C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Moonstruck_v1\Moonstruck_v1.Build.cs">
       <Filter>Source\Moonstruck_v1</Filter>
@@ -89,15 +89,17 @@
     <ClInclude Include="..\..\Source\Moonstruck_v1\Moonstruck_v1GameModeBase.h">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Moonstruck_v1\PositionReporter.h">
+    <ClCompile Include="..\..\Source\Moonstruck_v1\OpenDoor.cpp">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\OpenDoor.h">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\Source\Moonstruck_v1\PositionReporter.cpp">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClCompile>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\PositionReporter.h">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
