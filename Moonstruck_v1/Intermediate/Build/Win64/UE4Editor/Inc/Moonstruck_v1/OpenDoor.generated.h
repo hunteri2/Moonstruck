@@ -60,7 +60,8 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOpenDoor); \
 #define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_14_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__DoorAngle() { return STRUCT_OFFSET(UOpenDoor, DoorAngle); } \
 	FORCEINLINE static uint32 __PPO__PressurePlate() { return STRUCT_OFFSET(UOpenDoor, PressurePlate); } \
-	FORCEINLINE static uint32 __PPO__TokenItem() { return STRUCT_OFFSET(UOpenDoor, TokenItem); }
+	FORCEINLINE static uint32 __PPO__TokenItem() { return STRUCT_OFFSET(UOpenDoor, TokenItem); } \
+	FORCEINLINE static uint32 __PPO__DoorCloseDelay() { return STRUCT_OFFSET(UOpenDoor, DoorCloseDelay); }
 
 
 #define Moonstruck_v1_Source_Moonstruck_v1_OpenDoor_h_11_PROLOG

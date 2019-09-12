@@ -1,0 +1,9 @@
+E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\Definitions.Moonstruck_v1.h
+e:\repos\moonstruck_01\moonstruck\moonstruck_v1\source\moonstruck_v1\DefaultMoonstruck_GameModeBase.h
+e:\repos\moonstruck_01\moonstruck\moonstruck_v1\source\moonstruck_v1\Moonstruck_v1GameModeBase.h
+E:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Programs\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Inc\Moonstruck_v1\Moonstruck_v1GameModeBase.generated.h
+E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Inc\Moonstruck_v1\DefaultMoonstruck_GameModeBase.generated.h

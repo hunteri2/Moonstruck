@@ -19,23 +19,24 @@ UOpenDoor::UOpenDoor()
 void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
-
-	//TriggerEvent();
+	//Set the token item to the correct object. SN: This works, but intellisense doesn't realize this. IGNORE
+	TokenItem = GetWorld()->GetFirstPlayerController()->GetPawn();
+	//Set Owner AKA the object that's being efected by the users interaction with the trigger plate
+	Owner = GetOwner();
 	
 }
 
 void UOpenDoor::TriggerEvent()//This is a poor name, however I'm not sure what specifically it will do. So remember to change later.
 {
-	// Find Owner of Object
-	AActor* Owner = GetOwner();
-
-	//
-	FRotator NewRotation = FRotator(0.0f, 90.0f, 0.0f);
-
 	//Set rotation
-	Owner->SetActorRotation(NewRotation);
+	Owner->SetActorRotation(FRotator(0.0f, DoorAngle, 0.0f));
 }
 
+void UOpenDoor::CloseDoor()
+{
+	//Set rotation
+	Owner->SetActorRotation(FRotator(0.0f, 0.0f, 0.0f));
+}
 
 // Called every frame
 void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
@@ -46,8 +47,13 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	if (PressurePlate && PressurePlate->IsOverlappingActor(TokenItem)) 
 	{
 		TriggerEvent();
+		LastDoorOpen = GetWorld()->GetTimeSeconds();
 	}
-	//If correct token is given trigger event
-
+	
+	//Check if it's time to close the door
+	if (GetWorld()->GetTimeSeconds() >= LastDoorOpen + DoorCloseDelay) 
+	{
+		CloseDoor();
+	}
 }
 
