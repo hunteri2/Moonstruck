@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Moonstruck_v1.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D92A37AF-AC1D-4738-A6C9-96AAA67F8370}</UniqueIdentifier>
+      <UniqueIdentifier>{3380B380-A823-419C-AB44-CC97BBBC8B3B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Moonstruck_v1.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{18C47ED8-EB1B-4BFC-8AB1-421586B04AAD}</UniqueIdentifier>
+      <UniqueIdentifier>{48F932C1-5757-484C-B2BD-1D2EED5E4613}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,57 +23,72 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{E125E2D5-FBD4-4395-A193-86EF90E03B2A}</UniqueIdentifier>
+      <UniqueIdentifier>{75BE54C2-652B-4E29-B9D2-F9BD90F0DC1F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{B28CE830-97CB-488D-9A69-F8295047DB4D}</UniqueIdentifier>
+      <UniqueIdentifier>{917C7E69-7BD9-429E-8687-EF542C0C3920}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{50FC1CC9-B541-493C-A956-95B2647E10C3}</UniqueIdentifier>
+      <UniqueIdentifier>{175EA66F-686A-4A82-A109-FFA296D38C5D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{4B4F551A-E316-4EAD-A8C6-F2158DE6CC0C}</UniqueIdentifier>
+      <UniqueIdentifier>{A3480D65-AC41-4512-A6BD-D9BFD5EADC23}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{34F325C5-F561-4857-95C7-1BB9B2538E0C}</UniqueIdentifier>
+      <UniqueIdentifier>{B331646B-9265-4829-BBE1-8BF9B27A2CE7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{FDB197FC-F89E-4766-816D-7302953DE6C1}</UniqueIdentifier>
+      <UniqueIdentifier>{7733427D-7032-4D57-B777-40834BB13B90}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{1D9E9038-845E-4B39-AE3D-6EC92FE58E2B}</UniqueIdentifier>
+      <UniqueIdentifier>{151E5EDF-B33C-40D5-B4E5-7BE85A5C89FC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{1E9F7026-DB79-47F6-8A9A-C9F6E8811233}</UniqueIdentifier>
+      <UniqueIdentifier>{3E6D093E-9067-4B12-BCFF-8FD27D6ED0B3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\Moonstruck_v1">
-      <UniqueIdentifier>{F8BA9ADA-65B8-4DEF-AD08-52291F67B15C}</UniqueIdentifier>
+      <UniqueIdentifier>{F3C5DA62-ED0E-4CF5-B85C-8079FAAD79B9}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Moonstruck_v1\DefaultMoonstruck_GameModeBase.cpp">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\DefaultMoonstruck_GameModeBase.h">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Moonstruck_v1\DefaultPlayerHud.cpp">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\DefaultPlayerHud.h">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Moonstruck_v1\Moonstruck_v1.Build.cs">
       <Filter>Source\Moonstruck_v1</Filter>
     </None>
@@ -95,21 +110,17 @@
     <ClInclude Include="..\..\Source\Moonstruck_v1\OpenDoor.h">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Moonstruck_v1\Pickup.cpp">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Moonstruck_v1\Pickup.h">
+      <Filter>Source\Moonstruck_v1</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Moonstruck_v1\PositionReporter.cpp">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Moonstruck_v1\PositionReporter.h">
       <Filter>Source\Moonstruck_v1</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Moonstruck_v1\Pickup.h">
-      <Filter>Source\Moonstruck_v1</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\Moonstruck_v1\Pickup.cpp">
-      <Filter>Source\Moonstruck_v1</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

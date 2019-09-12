@@ -1,14 +1,13 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
   Parsing headers for Moonstruck_v1Editor
     Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for Moonstruck_v1Editor in 6.3400276 seconds
+  Reflection code generated for Moonstruck_v1Editor in 6.4472569 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 12 processes...
-    [1/4] OpenDoor.cpp
-    [2/4] UE4Editor-Moonstruck_v1-0054.lib
-       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.exp
-    [3/4] UE4Editor-Moonstruck_v1-0054.dll
-       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.suppressed.exp
-    [4/4] Moonstruck_v1Editor.target
-  Total time in Parallel executor: 2.26 seconds
-  Total execution time: 9.33 seconds
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-Moonstruck_v1-0061.lib
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0061.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0061.exp
+    [2/3] UE4Editor-Moonstruck_v1-0061.dll
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0061.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0061.suppressed.exp
+    [3/3] Moonstruck_v1Editor.target
+  Total time in Parallel executor: 1.26 seconds
+  Total execution time: 8.44 seconds

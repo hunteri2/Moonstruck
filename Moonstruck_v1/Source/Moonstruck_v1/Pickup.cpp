@@ -81,6 +81,8 @@ void UPickup::Pickup()
 				NAME_None,
 				ComponentToGrab->GetOwner()->GetActorLocation(),true);
 
+			//ComponentToGrab->AttachToComponent();
+
 		}
 	
 }

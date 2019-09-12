@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeMoonstruck_v1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x9D55BBAD,
-				0xE6758D7D,
+				0x6A5ADE08,
+				0xCE40B101,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
