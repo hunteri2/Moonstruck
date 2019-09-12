@@ -1,16 +1,14 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
   Parsing headers for Moonstruck_v1Editor
     Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for Moonstruck_v1Editor in 6.0560599 seconds
+  Reflection code generated for Moonstruck_v1Editor in 6.3400276 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Building 4 actions with 12 processes...
-    [1/4] Pickup.cpp
-E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Source\Moonstruck_v1\Pickup.cpp(79): warning C4996: 'UPhysicsHandleComponent::GrabComponent': Please use GrabComponentAtLocation or GrabComponentAtLocationWithRotation Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
-    E:\Programs\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h(86): note: see declaration of 'UPhysicsHandleComponent::GrabComponent'
-    [2/4] UE4Editor-Moonstruck_v1-0033.lib
-       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0033.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0033.exp
-    [3/4] UE4Editor-Moonstruck_v1-0033.dll
-       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0033.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0033.suppressed.exp
+    [1/4] OpenDoor.cpp
+    [2/4] UE4Editor-Moonstruck_v1-0054.lib
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.exp
+    [3/4] UE4Editor-Moonstruck_v1-0054.dll
+       Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0054.suppressed.exp
     [4/4] Moonstruck_v1Editor.target
-  Total time in Parallel executor: 1.96 seconds
-  Total execution time: 8.69 seconds
+  Total time in Parallel executor: 2.26 seconds
+  Total execution time: 9.33 seconds

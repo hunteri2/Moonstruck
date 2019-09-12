@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Engine/TriggerVolume.h"
 #include "Components/ActorComponent.h"
+#include <string>
 #include "OpenDoor.generated.h"
 
 
@@ -16,6 +17,9 @@ class MOONSTRUCK_V1_API UOpenDoor : public UActorComponent
 public:	
 	// Sets default values for this component's properties
 	UOpenDoor();
+	
+	UPROPERTY(EditAnywhere)
+		AActor* TokenItem;
 
 protected:
 	// Called when the game starts
@@ -24,6 +28,8 @@ protected:
 	void TriggerEvent();
 
 	void CloseDoor();
+
+	///std::string CreateToken();
 
 public:	
 	// Called every frame
@@ -36,8 +42,7 @@ private:
 	UPROPERTY(EditAnywhere)
 		ATriggerVolume* PressurePlate;
 
-	UPROPERTY(EditAnywhere)
-		AActor* TokenItem;
+	
 
 	UPROPERTY(EditAnywhere)
 		float DoorCloseDelay = 1.0f;

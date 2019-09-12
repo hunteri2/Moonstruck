@@ -2,6 +2,7 @@
 
 
 #include "OpenDoor.h"
+#include <string>
 #include "GameFramework/Actor.h"
 
 // Sets default values for this component's properties
@@ -20,7 +21,8 @@ void UOpenDoor::BeginPlay()
 {
 	Super::BeginPlay();
 	//Set the token item to the correct object. SN: This works, but intellisense doesn't realize this. IGNORE
-	TokenItem = GetWorld()->GetFirstPlayerController()->GetPawn();
+	TokenItem =this->TokenItem;
+		UE_LOG(LogTemp, Warning, TEXT("The token is: %s"), *TokenItem->GetName())
 	//Set Owner AKA the object that's being efected by the users interaction with the trigger plate
 	Owner = GetOwner();
 	
@@ -29,6 +31,7 @@ void UOpenDoor::BeginPlay()
 void UOpenDoor::TriggerEvent()//This is a poor name, however I'm not sure what specifically it will do. So remember to change later.
 {
 	//Set rotation
+	UE_LOG(LogTemp, Warning, TEXT("The Owner is: %s"), *Owner->GetName())
 	Owner->SetActorRotation(FRotator(0.0f, DoorAngle, 0.0f));
 }
 
@@ -46,14 +49,29 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 	//Poll the Trigger Volume
 	if (PressurePlate && PressurePlate->IsOverlappingActor(TokenItem)) 
 	{
+		UE_LOG(LogTemp, Warning, TEXT("Recognizes overlap"))
 		TriggerEvent();
 		LastDoorOpen = GetWorld()->GetTimeSeconds();
+	}
+	else
+	{
+		
 	}
 	
 	//Check if it's time to close the door
 	if (GetWorld()->GetTimeSeconds() >= LastDoorOpen + DoorCloseDelay) 
 	{
-		CloseDoor();
+		//CloseDoor();
 	}
+
+	
 }
 
+//std::string UOpenDoor::CreateToken()
+//	{
+//		//Find all overlapping opjects
+//		//PressurePlate->GetOverlappingActors->GetActorName();
+//		
+//		//Iterate through them
+//
+//	}
