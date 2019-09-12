@@ -548,3 +548,1295 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.12-05.21.09:761][107]LogSlate: Took 0.005460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.09.12-05.21.11:606][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.09.12-05.21.15:526][701]LogAssetEditorManager: Opening Asset editor for Class /Script/Moonstruck_v1.Pickup
+[2019.09.12-05.27.59:285][199]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-05.27.59:301][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.27.59:302][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-05.27.59:302][199]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 9:27:59 PM)
+[2019.09.12-05.27.59:303][199]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.12-05.27.59:304][199]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.27.59:308][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004308s)
+[2019.09.12-05.27.59:309][199]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-05.27.59:310][199]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2019.09.12-05.27.59:310][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005810s)
+[2019.09.12-05.27.59:343][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.09.12-05.27.59:391][199]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-05.27.59:403][199]LogInit: FAudioDevice initialized.
+[2019.09.12-05.27.59:418][199]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-05.27.59:420][199]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-01.27.59
+[2019.09.12-05.27.59:420][199]LogWorld: Bringing up level for play took: 0.001202
+[2019.09.12-05.27.59:420][199]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.09.12-05.27.59:426][199]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.09.12-05.27.59:427][199]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-05.27.59:427][199]LogTemp: Warning: SM_TableRound_2 is at X=60.000 Y=-180.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-05.27.59:427][199]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.482
+[2019.09.12-05.27.59:428][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.28.01:416][409]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.12-05.28.06:526][958]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:536][959]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:544][960]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:554][961]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:565][962]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:573][963]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:583][964]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:594][965]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:602][966]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:611][967]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:620][968]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:628][969]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:636][970]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:645][971]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:654][972]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:663][973]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:672][974]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:680][975]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:688][976]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:698][977]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:706][978]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:714][979]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:723][980]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:731][981]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:740][982]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:748][983]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:758][984]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:768][985]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:776][986]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:786][987]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:794][988]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:803][989]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:811][990]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:820][991]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:828][992]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:837][993]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:846][994]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:855][995]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:864][996]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:872][997]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:882][998]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:890][999]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:898][  0]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:907][  1]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:915][  2]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:924][  3]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:933][  4]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:941][  5]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:950][  6]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:959][  7]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:968][  8]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:976][  9]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:986][ 10]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.06:996][ 11]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:004][ 12]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:012][ 13]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:021][ 14]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:030][ 15]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:039][ 16]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:048][ 17]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:057][ 18]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:065][ 19]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:074][ 20]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:084][ 21]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.07:093][ 22]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.28.09:629][303]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:637][304]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:646][305]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:654][306]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:663][307]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:671][308]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:679][309]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:688][310]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:696][311]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:704][312]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:713][313]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.09:722][314]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.10:050][353]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.10:059][354]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.10:067][355]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.10:075][356]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.12-05.28.11:231][484]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:241][485]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:250][486]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:260][487]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:270][488]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:279][489]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:288][490]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:297][491]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:307][492]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:316][493]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:324][494]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:572][521]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:581][522]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:590][523]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:599][524]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:608][525]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:618][526]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:628][527]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:637][528]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:646][529]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:655][530]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:664][531]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:674][532]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:683][533]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:692][534]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:702][535]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:712][536]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:721][537]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:731][538]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:740][539]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:750][540]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:760][541]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:769][542]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:779][543]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:788][544]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:798][545]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:808][546]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:818][547]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:828][548]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.11:840][549]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:929][772]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:938][773]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:948][774]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:957][775]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:966][776]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:976][777]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:986][778]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.13:995][779]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:005][780]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:014][781]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:024][782]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:034][783]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:043][784]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:052][785]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:062][786]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:071][787]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:081][788]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:091][789]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:101][790]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:110][791]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:120][792]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:129][793]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:140][794]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:149][795]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:158][796]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:168][797]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:177][798]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:188][799]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:198][800]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:207][801]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:217][802]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:226][803]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:235][804]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:245][805]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:254][806]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:263][807]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:272][808]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:281][809]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:290][810]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:300][811]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:309][812]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:318][813]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:327][814]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:339][815]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:348][816]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:358][817]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:367][818]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:376][819]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:385][820]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:395][821]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:405][822]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:414][823]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:424][824]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:433][825]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:443][826]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:452][827]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:462][828]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:471][829]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:481][830]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:490][831]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:500][832]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:509][833]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:519][834]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:528][835]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:538][836]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:547][837]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.14:556][838]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-05.28.17:272][131]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.28.17:273][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.28.17:273][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.28.17:273][131]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-05.28.17:293][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-05.28.17:294][131]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.28.17:331][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.28.17:335][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.09.12-05.28.17:389][133]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.12-05.28.24:346][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.09.12-05.28.29:921][348]Cmd: TRANSACTION UNDO
+[2019.09.12-05.28.29:921][348]LogEditorTransaction: Undo Move Actors
+[2019.09.12-05.28.49:532][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.12-05.29.01:375][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.12-05.30.08:783][661]LogHttp: Warning: 000002BA6B5602C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.12-05.30.08:784][661]LogHttp: Warning: 000002BA6B5602C0: request failed, libcurl error: 0 (No error)
+[2019.09.12-05.30.08:784][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ba286bff70 [can pipeline])
+[2019.09.12-05.30.08:784][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2019.09.12-05.30.08:784][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.81.81.192) port 443 (#3))
+[2019.09.12-05.30.08:784][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.12-05.30.08:785][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.12-05.30.08:785][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.12-05.30.08:785][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.12-05.30.08:785][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 7 (Closing connection 3)
+[2019.09.12-05.30.08:785][661]LogHttp: Warning: 000002BA6B5602C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.12-05.30.08:794][662]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.12-05.30.19:830][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-05.31.27:138][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.12-05.31.27:279][942]LogSavePackage: Moving '../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Map_DevDebug_Auto19AAE7FFC427086B8A3AF6AAF4FE9B624.tmp' to '../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Autosaves/Game/Maps/Map_DevDebug_Auto1.umap'
+[2019.09.12-05.31.27:285][942]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_DevDebug' took 0.182
+[2019.09.12-05.31.27:286][942]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2019.09.12-05.38.07:444][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-05.54.16:422][497]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0014.dll
+[2019.09.12-05.54.17:444][501]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-05.54.17:527][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.09.12-05.54.17:546][501]LogClass: Could not find existing class Pickup in package /Script/Moonstruck_v1 for HotReload, assuming new class
+[2019.09.12-05.54.17:551][501]LogHotReload: Re-instancing Pickup after hot-reload.
+[2019.09.12-05.54.17:650][501]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0005 seconds. Added 5 classes and 2 folders.
+[2019.09.12-05.54.17:653][501]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-05.54.17:725][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.12-05.54.17:740][501]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-05.54.17:743][501]Display: HotReload took  0.3s.
+[2019.09.12-05.55.05:507][111]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-05.55.05:526][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.05:527][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-05.55.05:527][111]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 9:55:05 PM)
+[2019.09.12-05.55.05:527][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.55.05:532][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005284s)
+[2019.09.12-05.55.05:534][111]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-05.55.05:534][111]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2019.09.12-05.55.05:534][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.007021s)
+[2019.09.12-05.55.05:568][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.09.12-05.55.05:624][111]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-05.55.05:637][111]LogInit: FAudioDevice initialized.
+[2019.09.12-05.55.05:645][111]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-05.55.05:647][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-01.55.05
+[2019.09.12-05.55.05:647][111]LogWorld: Bringing up level for play took: 0.001325
+[2019.09.12-05.55.05:648][111]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.09.12-05.55.05:650][111]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-05.55.05:650][111]LogTemp: Warning: SM_TableRound_2 is at X=70.000 Y=-172.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-05.55.05:650][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.259
+[2019.09.12-05.55.05:651][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.19:140][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.19:141][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.55.19:142][602]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.55.19:142][602]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-05.55.19:160][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-05.55.19:160][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.19:198][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.55.19:201][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-05.55.19:253][604]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.09.12-05.55.21:827][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-05.55.29:944][802]Candidate modules for hot reload:
+[2019.09.12-05.55.29:944][802]  Moonstruck_v1
+[2019.09.12-05.55.29:944][802]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,6658 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.12-05.55.29:954][802]Warning: Starting HotReload took  0.0s.
+[2019.09.12-05.55.38:290][385]CompilerResultsLog: New page: Compilation - Sep 11, 2019, 9:55:38 PM
+[2019.09.12-05.55.38:290][385]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.12-05.55.38:290][385]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.12-05.55.38:290][385]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.12-05.55.38:291][385]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.1624857 seconds
+[2019.09.12-05.55.38:291][385]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.12-05.55.38:291][385]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.12-05.55.38:291][385]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-6658.lib
+[2019.09.12-05.55.38:291][385]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-6658.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-6658.exp
+[2019.09.12-05.55.38:291][385]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-6658.dll
+[2019.09.12-05.55.38:292][385]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-6658.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-6658.suppressed.exp
+[2019.09.12-05.55.38:292][385]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.12-05.55.38:292][385]CompilerResultsLog: Total time in Parallel executor: 1.18 seconds
+[2019.09.12-05.55.38:292][385]CompilerResultsLog: Total execution time: 8.25 seconds
+[2019.09.12-05.55.38:292][385]LogMainFrame: MainFrame: Module compiling took 8.351 seconds
+[2019.09.12-05.55.38:324][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.09.12-05.55.38:346][385]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.09.12-05.55.38:349][385]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-05.55.38:416][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.12-05.55.38:431][385]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-05.55.38:431][385]Display: HotReload took  8.5s.
+[2019.09.12-05.55.42:747][600]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-05.55.42:766][600]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.42:766][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-05.55.42:766][600]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 9:55:42 PM)
+[2019.09.12-05.55.42:766][600]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.55.42:771][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004289s)
+[2019.09.12-05.55.42:772][600]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-05.55.42:772][600]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2019.09.12-05.55.42:772][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005910s)
+[2019.09.12-05.55.42:806][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-05.55.42:852][600]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-05.55.42:863][600]LogInit: FAudioDevice initialized.
+[2019.09.12-05.55.42:868][600]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-05.55.42:870][600]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-01.55.42
+[2019.09.12-05.55.42:870][600]LogWorld: Bringing up level for play took: 0.001267
+[2019.09.12-05.55.42:871][600]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.09.12-05.55.42:873][600]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-05.55.42:873][600]LogTemp: Warning: SM_TableRound_2 is at X=70.000 Y=-172.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-05.55.42:873][600]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.964
+[2019.09.12-05.55.42:873][600]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.55.53:341][741]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:349][742]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:358][743]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:367][744]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:376][745]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:386][746]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:395][747]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:403][748]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:413][749]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:422][750]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:431][751]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:439][752]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:448][753]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:458][754]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:466][755]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:476][756]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:485][757]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:493][758]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:502][759]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:511][760]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:519][761]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:528][762]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:537][763]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:546][764]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:555][765]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:564][766]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:572][767]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:581][768]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:590][769]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:598][770]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:607][771]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:616][772]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:625][773]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:633][774]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:641][775]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:650][776]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:659][777]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:668][778]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:676][779]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:684][780]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:693][781]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:702][782]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:710][783]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:719][784]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:728][785]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:736][786]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:745][787]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:754][788]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:763][789]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:771][790]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:779][791]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:788][792]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:799][793]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:807][794]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:816][795]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:825][796]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:833][797]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:842][798]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:850][799]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:859][800]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:867][801]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:876][802]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:884][803]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:893][804]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:901][805]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:910][806]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:920][807]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:930][808]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:938][809]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:947][810]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:955][811]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:964][812]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:973][813]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:981][814]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:990][815]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.53:999][816]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:894][131]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:903][132]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:914][133]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:923][134]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:933][135]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:943][136]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:952][137]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:961][138]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:970][139]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:979][140]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:988][141]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.56:997][142]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:005][143]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:014][144]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:022][145]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:031][146]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:039][147]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:048][148]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:057][149]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:066][150]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:075][151]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:084][152]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:092][153]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:100][154]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:109][155]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:117][156]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:126][157]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:134][158]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:143][159]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:151][160]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:160][161]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:168][162]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:177][163]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:185][164]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:194][165]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:202][166]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:211][167]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:219][168]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:228][169]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:236][170]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:245][171]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:253][172]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:262][173]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:271][174]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:280][175]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:289][176]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:298][177]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:306][178]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:315][179]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:324][180]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:334][181]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:342][182]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:350][183]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:359][184]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:367][185]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:375][186]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:385][187]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:394][188]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:402][189]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:410][190]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:419][191]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:427][192]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:436][193]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:444][194]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:452][195]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:461][196]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:469][197]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:478][198]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:487][199]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:495][200]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:503][201]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:512][202]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:520][203]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:528][204]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:537][205]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:652][206]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:657][207]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:665][208]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:686][209]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:691][210]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:699][211]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:707][212]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:716][213]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:724][214]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:732][215]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:741][216]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:749][217]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:757][218]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:766][219]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:774][220]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:782][221]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:791][222]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:799][223]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:808][224]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:816][225]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:825][226]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:834][227]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:843][228]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:852][229]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:861][230]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:869][231]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:878][232]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:886][233]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:895][234]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:904][235]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:913][236]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:921][237]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:930][238]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:939][239]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:948][240]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:957][241]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.57:965][242]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.58:403][243]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.55.58:464][244]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.56.00:086][245]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.56.07:191][246]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.56.08:163][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.56.08:164][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.56.08:164][363]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.56.08:164][363]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-05.56.08:175][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-05.56.08:175][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.56.08:210][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.56.08:220][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.12-05.56.08:271][365]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.12-05.57.19:549][807]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.12-05.57.22:291][121]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-05.57.22:308][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.57.22:308][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-05.57.22:308][121]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 9:57:22 PM)
+[2019.09.12-05.57.22:309][121]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.57.22:313][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004001s)
+[2019.09.12-05.57.22:314][121]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-05.57.22:314][121]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2019.09.12-05.57.22:314][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005408s)
+[2019.09.12-05.57.22:348][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.12-05.57.22:393][121]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-05.57.22:405][121]LogInit: FAudioDevice initialized.
+[2019.09.12-05.57.22:409][121]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-05.57.22:411][121]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-01.57.22
+[2019.09.12-05.57.22:411][121]LogWorld: Bringing up level for play took: 0.001254
+[2019.09.12-05.57.22:411][121]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.09.12-05.57.22:413][121]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-05.57.22:413][121]LogTemp: Warning: SM_TableRound_2 is at X=70.000 Y=-172.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-05.57.22:414][121]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.504
+[2019.09.12-05.57.22:414][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.57.31:924][171]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:933][172]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:942][173]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:951][174]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:961][175]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:970][176]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:978][177]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:987][178]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.31:997][179]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:006][180]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:015][181]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:024][182]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:034][183]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:043][184]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:052][185]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:061][186]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:070][187]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:079][188]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:088][189]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:097][190]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:107][191]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:116][192]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:125][193]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:134][194]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:143][195]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:152][196]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:161][197]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:170][198]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:179][199]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:188][200]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:197][201]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:206][202]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:215][203]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:224][204]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:233][205]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:242][206]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:251][207]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:260][208]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:268][209]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:277][210]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:286][211]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:296][212]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:305][213]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:314][214]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:323][215]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:331][216]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:340][217]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:349][218]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:358][219]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:367][220]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:376][221]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:385][222]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:394][223]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:403][224]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:412][225]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:421][226]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:429][227]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:439][228]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.32:448][229]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-05.57.36:885][730]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.57.36:886][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.57.36:886][730]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.57.36:886][730]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-05.57.36:905][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-05.57.36:906][730]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.57.36:941][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-05.57.36:943][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-05.57.36:994][732]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.12-05.57.39:055][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-05.59.46:002][215]Candidate modules for hot reload:
+[2019.09.12-05.59.46:002][215]  Moonstruck_v1
+[2019.09.12-05.59.46:003][215]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,3146 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.12-05.59.46:007][215]Warning: Starting HotReload took  0.0s.
+[2019.09.12-05.59.54:499][ 59]CompilerResultsLog: New page: Compilation - Sep 11, 2019, 9:59:54 PM
+[2019.09.12-05.59.54:500][ 59]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.12-05.59.54:500][ 59]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.12-05.59.54:500][ 59]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.12-05.59.54:501][ 59]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.2189718 seconds
+[2019.09.12-05.59.54:501][ 59]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.12-05.59.54:501][ 59]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.12-05.59.54:502][ 59]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-3146.lib
+[2019.09.12-05.59.54:502][ 59]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-3146.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-3146.exp
+[2019.09.12-05.59.54:502][ 59]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-3146.dll
+[2019.09.12-05.59.54:502][ 59]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-3146.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-3146.suppressed.exp
+[2019.09.12-05.59.54:503][ 59]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.12-05.59.54:503][ 59]CompilerResultsLog: Total time in Parallel executor: 1.26 seconds
+[2019.09.12-05.59.54:503][ 59]CompilerResultsLog: Total execution time: 8.40 seconds
+[2019.09.12-05.59.54:503][ 59]LogMainFrame: MainFrame: Module compiling took 8.506 seconds
+[2019.09.12-05.59.54:536][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.09.12-05.59.54:559][ 59]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.09.12-05.59.54:562][ 59]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-05.59.54:626][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.12-05.59.54:641][ 59]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-05.59.54:641][ 59]Display: HotReload took  8.7s.
+[2019.09.12-05.59.57:220][321]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-05.59.57:239][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.59.57:239][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-05.59.57:240][321]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 9:59:57 PM)
+[2019.09.12-05.59.57:240][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-05.59.57:244][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004005s)
+[2019.09.12-05.59.57:245][321]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-05.59.57:245][321]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2019.09.12-05.59.57:245][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005397s)
+[2019.09.12-05.59.57:279][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-05.59.57:326][321]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-05.59.57:338][321]LogInit: FAudioDevice initialized.
+[2019.09.12-05.59.57:346][321]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-05.59.57:347][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-01.59.57
+[2019.09.12-05.59.57:348][321]LogWorld: Bringing up level for play took: 0.001243
+[2019.09.12-05.59.57:348][321]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.09.12-05.59.57:350][321]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-05.59.57:350][321]LogTemp: Warning: SM_TableRound_2 is at X=70.000 Y=-172.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-05.59.57:351][321]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.558
+[2019.09.12-05.59.57:351][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-05.59.58:563][445]LogTemp: Warning: Grab Pickup
+[2019.09.12-05.59.58:650][454]LogTemp: Warning: Grab Released
+[2019.09.12-06.00.01:369][735]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:379][736]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:388][737]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:397][738]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:407][739]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:417][740]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:426][741]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:436][742]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:446][743]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:456][744]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:465][745]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:477][746]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:486][747]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:496][748]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:506][749]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:523][750]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:531][751]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:539][752]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:548][753]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:556][754]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:564][755]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:573][756]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:582][757]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:591][758]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:602][759]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:611][760]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:620][761]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:629][762]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:639][763]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:647][764]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:657][765]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:666][766]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:675][767]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:684][768]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:693][769]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:702][770]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:711][771]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:720][772]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.01:729][773]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.00.03:356][959]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.00.03:466][972]LogTemp: Warning: Grab Released
+[2019.09.12-06.00.04:331][ 69]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.00.04:424][ 79]LogTemp: Warning: Grab Released
+[2019.09.12-06.00.06:335][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.00.06:336][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.00.06:336][290]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.00.06:336][290]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-06.00.06:352][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-06.00.06:352][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.00.06:391][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.00.06:393][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.12-06.00.06:446][292]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.12-06.30.35:024][832]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.12-06.30.36:237][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-06.30.36:255][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.30.36:256][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-06.30.36:256][940]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 10:30:36 PM)
+[2019.09.12-06.30.36:256][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.30.36:260][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004195s)
+[2019.09.12-06.30.36:261][940]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-06.30.36:261][940]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2019.09.12-06.30.36:262][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005717s)
+[2019.09.12-06.30.36:296][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.09.12-06.30.36:342][940]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-06.30.36:355][940]LogInit: FAudioDevice initialized.
+[2019.09.12-06.30.36:360][940]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-06.30.36:362][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-02.30.36
+[2019.09.12-06.30.36:362][940]LogWorld: Bringing up level for play took: 0.001288
+[2019.09.12-06.30.36:362][940]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.09.12-06.30.36:364][940]LogTemp: Warning: SM_Chair_2 is at X=-20.000 Y=-250.000 Z=20.063 with rotation X=-0.000000080 Y=0.000000254 Z=0.300706208 W=0.953716815
+[2019.09.12-06.30.36:364][940]LogTemp: Warning: SM_TableRound_2 is at X=70.000 Y=-172.000 Z=20.000 with rotation X=0.000000000 Y=0.000000000 Z=0.000000000 W=1.000000000
+[2019.09.12-06.30.36:365][940]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.456
+[2019.09.12-06.30.36:365][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.30.37:908][104]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.38:003][114]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.40:231][354]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.40:355][368]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.43:912][750]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:922][751]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:932][752]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:941][753]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:950][754]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:959][755]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:968][756]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:978][757]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:988][758]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.43:997][759]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:007][760]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:016][761]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:026][762]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:035][763]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:044][764]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:054][765]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:064][766]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:074][767]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:083][768]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:093][769]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:102][770]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:112][771]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:120][772]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:130][773]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:140][774]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:149][775]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:158][776]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:170][777]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:180][778]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:188][779]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:198][780]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:208][781]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:217][782]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:227][783]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:238][784]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:248][785]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:258][786]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:267][787]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:276][788]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:286][789]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:295][790]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:305][791]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:314][792]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:324][793]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:334][794]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:343][795]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:352][796]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:361][797]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:370][798]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:380][799]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:389][800]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:398][801]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:407][802]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:417][803]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:426][804]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:435][805]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:445][806]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:454][807]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:463][808]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:472][809]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:483][810]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:492][811]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:501][812]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:510][813]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:520][814]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:529][815]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:538][816]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:548][817]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:557][818]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:566][819]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:575][820]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:585][821]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:594][822]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:603][823]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:612][824]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:621][825]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:631][826]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:640][827]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:649][828]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:658][829]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:668][830]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:677][831]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:686][832]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:695][833]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:704][834]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:714][835]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:723][836]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:732][837]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:742][838]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:752][839]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:761][840]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:771][841]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:780][842]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:790][843]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:799][844]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:808][845]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:818][846]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:827][847]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:836][848]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:846][849]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:856][850]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:865][851]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:876][852]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:885][853]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:894][854]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:904][855]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:913][856]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:922][857]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:931][858]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:940][859]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:950][860]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:959][861]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:968][862]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:978][863]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:987][864]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.44:996][865]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:005][866]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:016][867]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:025][868]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:035][869]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:044][870]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:054][871]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:063][872]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:072][873]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:082][874]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:091][875]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:100][876]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:109][877]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:124][878]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.45:124][878]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:133][879]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:142][880]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:152][881]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:161][882]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:172][883]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:182][884]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:192][885]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:201][886]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:210][887]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:220][888]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:230][889]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:240][890]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.45:240][890]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:249][891]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:258][892]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:267][893]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:277][894]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:286][895]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:295][896]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:304][897]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:313][898]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:322][899]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:332][900]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:342][901]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:351][902]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:361][903]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:370][904]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:379][905]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:390][906]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:399][907]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:408][908]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:418][909]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:427][910]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:436][911]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:446][912]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:455][913]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:465][914]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:474][915]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:483][916]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:492][917]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:502][918]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:511][919]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:520][920]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:530][921]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:539][922]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:548][923]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:557][924]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:566][925]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:576][926]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:586][927]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:594][928]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:604][929]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:613][930]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:623][931]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:632][932]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:641][933]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:651][934]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:660][935]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:669][936]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:678][937]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:688][938]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.45:697][939]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.47:571][140]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.47:689][153]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.50:440][446]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.50:544][457]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.51:661][576]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:670][577]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:679][578]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:689][579]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:698][580]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:707][581]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:717][582]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:726][583]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:735][584]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:744][585]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:756][586]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:765][587]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:775][588]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:784][589]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:794][590]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:803][591]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:813][592]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:823][593]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:832][594]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:842][595]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:851][596]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:861][597]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:870][598]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:880][599]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:889][600]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:898][601]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:912][602]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.30.51:912][602]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:920][603]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:930][604]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:939][605]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:948][606]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:958][607]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:967][608]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:976][609]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:985][610]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.51:995][611]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:004][612]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:016][613]LogTemp: Warning: Grab Released
+[2019.09.12-06.30.52:016][613]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:025][614]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:034][615]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:043][616]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:052][617]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:062][618]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:071][619]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:080][620]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:090][621]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:099][622]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:108][623]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.52:117][624]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.30.56:143][ 53]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.30.56:144][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.30.56:144][ 53]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.30.56:144][ 53]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-06.30.56:163][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-06.30.56:163][ 53]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.30.56:200][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.30.56:203][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.09.12-06.30.56:260][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.12-06.31.02:470][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.09.12-06.31.03:094][715]LogSlate: Took 0.007112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.12-06.31.03:999][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-06.31.07:494][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2019.09.12-06.31.08:753][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-06.31.10:849][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.09.12-06.32.01:310][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.09.12-06.32.01:455][688]LogSavePackage: Moving '../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Map_DevDebug_Auto2D6D0D9914EA1C1A6A6B29A95F79176D8.tmp' to '../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Autosaves/Game/Maps/Map_DevDebug_Auto2.umap'
+[2019.09.12-06.32.01:462][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Map_DevDebug' took 0.186
+[2019.09.12-06.32.01:462][688]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.186
+[2019.09.12-06.41.09:566][324]LogHttp: Warning: 000002BA000811C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.12-06.41.09:566][324]LogHttp: Warning: 000002BA000811C0: request failed, libcurl error: 0 (No error)
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ba286bff70 [can pipeline])
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 1 (Re-using existing connection! (#43) with host datarouter.ol.epicgames.com)
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.3.123) port 443 (#43))
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.12-06.41.09:567][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.12-06.41.09:568][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.12-06.41.09:568][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 7 (Closing connection 43)
+[2019.09.12-06.41.09:568][324]LogHttp: Warning: 000002BA000811C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.12-06.41.09:568][324]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.12-06.53.32:493][540]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0028.dll
+[2019.09.12-06.53.33:514][544]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-06.53.33:558][544]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.09.12-06.53.33:592][544]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0013 seconds. Added 5 classes and 2 folders.
+[2019.09.12-06.53.33:596][544]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-06.53.33:663][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.12-06.53.33:690][544]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-06.53.33:693][544]Display: HotReload took  0.2s.
+[2019.09.12-06.53.35:422][549]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.12-06.53.37:454][725]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-06.53.37:474][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.53.37:475][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-06.53.37:475][725]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 10:53:37 PM)
+[2019.09.12-06.53.37:475][725]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.53.37:480][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004195s)
+[2019.09.12-06.53.37:481][725]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-06.53.37:481][725]LogPlayLevel: PIE: World Init took: (0.001421s)
+[2019.09.12-06.53.37:481][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.006188s)
+[2019.09.12-06.53.37:516][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.09.12-06.53.37:561][725]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-06.53.37:573][725]LogInit: FAudioDevice initialized.
+[2019.09.12-06.53.37:580][725]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-06.53.37:582][725]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-02.53.37
+[2019.09.12-06.53.37:582][725]LogWorld: Bringing up level for play took: 0.001274
+[2019.09.12-06.53.37:582][725]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.09.12-06.53.37:585][725]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.325
+[2019.09.12-06.53.37:585][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.54.02:374][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.54.02:375][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.54.02:375][446]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.54.02:375][446]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-06.54.02:395][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-06.54.02:395][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.54.02:432][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.54.02:435][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.12-06.54.02:490][448]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.12-06.55.46:319][987]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0029.dll
+[2019.09.12-06.55.47:338][991]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-06.55.47:378][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.09.12-06.55.47:401][991]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.09.12-06.55.47:404][991]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-06.55.47:469][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.12-06.55.47:484][991]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-06.55.47:487][991]Display: HotReload took  0.1s.
+[2019.09.12-06.55.50:230][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-06.55.50:355][129]Candidate modules for hot reload:
+[2019.09.12-06.55.50:355][129]  Moonstruck_v1
+[2019.09.12-06.55.50:355][129]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,5563 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.12-06.55.50:359][129]Warning: Starting HotReload took  0.0s.
+[2019.09.12-06.55.58:948][965]CompilerResultsLog: New page: Compilation - Sep 11, 2019, 10:55:58 PM
+[2019.09.12-06.55.58:948][965]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.12-06.55.58:949][965]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.12-06.55.58:949][965]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.12-06.55.58:949][965]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.3194337 seconds
+[2019.09.12-06.55.58:949][965]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.12-06.55.58:950][965]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.12-06.55.58:950][965]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-5563.lib
+[2019.09.12-06.55.58:950][965]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-5563.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-5563.exp
+[2019.09.12-06.55.58:950][965]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-5563.dll
+[2019.09.12-06.55.58:950][965]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-5563.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-5563.suppressed.exp
+[2019.09.12-06.55.58:951][965]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.12-06.55.58:951][965]CompilerResultsLog: Total time in Parallel executor: 1.25 seconds
+[2019.09.12-06.55.58:951][965]CompilerResultsLog: Total execution time: 8.50 seconds
+[2019.09.12-06.55.58:951][965]LogMainFrame: MainFrame: Module compiling took 8.599 seconds
+[2019.09.12-06.55.58:985][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.09.12-06.55.59:008][965]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.09.12-06.55.59:011][965]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-06.55.59:077][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.09.12-06.55.59:092][965]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-06.55.59:092][965]Display: HotReload took  8.7s.
+[2019.09.12-06.56.02:742][326]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-06.56.02:761][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.56.02:762][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-06.56.02:762][326]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 10:56:02 PM)
+[2019.09.12-06.56.02:762][326]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.56.02:767][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004072s)
+[2019.09.12-06.56.02:768][326]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-06.56.02:768][326]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2019.09.12-06.56.02:768][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005732s)
+[2019.09.12-06.56.02:802][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.12-06.56.02:847][326]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-06.56.02:859][326]LogInit: FAudioDevice initialized.
+[2019.09.12-06.56.02:864][326]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-06.56.02:866][326]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-02.56.02
+[2019.09.12-06.56.02:866][326]LogWorld: Bringing up level for play took: 0.001413
+[2019.09.12-06.56.02:867][326]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.09.12-06.56.02:869][326]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.96
+[2019.09.12-06.56.02:869][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.56.14:185][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.56.14:185][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.56.14:186][560]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.56.14:186][560]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-06.56.14:204][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-06.56.14:204][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.56.14:240][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.56.14:243][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-06.56.14:295][562]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.12-06.57.12:629][871]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0031.dll
+[2019.09.12-06.57.13:647][875]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-06.57.13:689][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.09.12-06.57.13:713][875]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2019.09.12-06.57.13:717][875]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-06.57.13:782][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.09.12-06.57.13:798][875]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-06.57.13:800][875]Display: HotReload took  0.2s.
+[2019.09.12-06.57.16:462][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-06.57.16:542][  7]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-06.57.16:561][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.57.16:561][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-06.57.16:561][  7]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 10:57:16 PM)
+[2019.09.12-06.57.16:561][  7]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.57.16:566][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004086s)
+[2019.09.12-06.57.16:567][  7]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-06.57.16:567][  7]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2019.09.12-06.57.16:567][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005525s)
+[2019.09.12-06.57.16:602][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.12-06.57.16:654][  7]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-06.57.16:667][  7]LogInit: FAudioDevice initialized.
+[2019.09.12-06.57.16:675][  7]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-06.57.16:677][  7]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-02.57.16
+[2019.09.12-06.57.16:677][  7]LogWorld: Bringing up level for play took: 0.001268
+[2019.09.12-06.57.16:677][  7]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.12-06.57.16:680][  7]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.771
+[2019.09.12-06.57.16:680][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.57.17:448][ 88]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.17:548][ 99]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.20:842][457]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.20:843][457]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.57.27:804][232]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.28:810][342]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.28:930][355]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.29:564][423]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.29:564][423]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.57.29:723][440]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.30:247][496]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.30:487][522]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.31:100][588]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.31:304][610]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.32:533][742]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.32:533][742]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.57.32:704][761]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.33:401][838]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.57.33:401][838]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-06.57.33:531][852]LogTemp: Warning: Grab Released
+[2019.09.12-06.57.37:151][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.57.37:151][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.57.37:151][251]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.57.37:152][251]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-06.57.37:169][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-06.57.37:169][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.57.37:207][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-06.57.37:210][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.09.12-06.57.37:262][253]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.09.12-06.59.48:415][975]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0032.dll
+[2019.09.12-06.59.49:431][979]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-06.59.49:473][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.09.12-06.59.49:495][979]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.09.12-06.59.49:498][979]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-06.59.49:560][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.09.12-06.59.49:575][979]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-06.59.49:578][979]Display: HotReload took  0.1s.
+[2019.09.12-06.59.52:193][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-06.59.52:286][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-06.59.52:304][ 73]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.59.52:305][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-06.59.52:305][ 73]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 10:59:52 PM)
+[2019.09.12-06.59.52:305][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-06.59.52:309][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004011s)
+[2019.09.12-06.59.52:310][ 73]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-06.59.52:310][ 73]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2019.09.12-06.59.52:310][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005455s)
+[2019.09.12-06.59.52:343][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.09.12-06.59.52:386][ 73]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-06.59.52:399][ 73]LogInit: FAudioDevice initialized.
+[2019.09.12-06.59.52:403][ 73]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-06.59.52:405][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-02.59.52
+[2019.09.12-06.59.52:405][ 73]LogWorld: Bringing up level for play took: 0.001261
+[2019.09.12-06.59.52:405][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.09.12-06.59.52:408][ 73]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.499
+[2019.09.12-06.59.52:408][ 73]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-06.59.53:637][205]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.59.53:741][216]LogTemp: Warning: Grab Released
+[2019.09.12-06.59.55:718][430]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.59.55:905][450]LogTemp: Warning: Grab Released
+[2019.09.12-06.59.56:293][491]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.59.56:444][507]LogTemp: Warning: Grab Released
+[2019.09.12-06.59.57:028][569]LogTemp: Warning: Grab Pickup
+[2019.09.12-06.59.57:028][569]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-07.00.02:643][201]LogTemp: Warning: Grab Released
+[2019.09.12-07.00.03:069][252]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.00.03:069][252]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-07.00.03:185][266]LogTemp: Warning: Grab Released
+[2019.09.12-07.00.03:503][304]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.00.03:627][319]LogTemp: Warning: Grab Released
+[2019.09.12-07.00.04:394][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.00.04:395][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-07.00.04:395][411]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-07.00.04:395][411]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-07.00.04:405][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-07.00.04:405][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.00.04:442][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-07.00.04:444][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.12-07.00.04:495][413]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.09.12-07.00.54:978][ 99]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0033.dll
+[2019.09.12-07.00.55:997][103]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.12-07.00.56:040][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.09.12-07.00.56:062][103]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2019.09.12-07.00.56:066][103]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.12-07.00.56:131][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.12-07.00.56:146][103]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2869 classes and 684 folders.
+[2019.09.12-07.00.56:149][103]Display: HotReload took  0.2s.
+[2019.09.12-07.00.58:570][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.12-07.00.58:650][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.12-07.00.58:669][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.00.58:669][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.12-07.00.58:669][224]PIE: New page: PIE session: Map_DevDebug (Sep 11, 2019, 11:00:58 PM)
+[2019.09.12-07.00.58:670][224]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-07.00.58:674][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004108s)
+[2019.09.12-07.00.58:675][224]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.12-07.00.58:675][224]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2019.09.12-07.00.58:675][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.005579s)
+[2019.09.12-07.00.58:708][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.12-07.00.58:753][224]LogInit: XAudio2 using 'Headphones (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.12-07.00.58:764][224]LogInit: FAudioDevice initialized.
+[2019.09.12-07.00.58:770][224]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.12-07.00.58:772][224]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.12-03.00.58
+[2019.09.12-07.00.58:772][224]LogWorld: Bringing up level for play took: 0.001290
+[2019.09.12-07.00.58:772][224]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.09.12-07.00.58:775][224]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.866
+[2019.09.12-07.00.58:775][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.00.59:993][353]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.00:102][365]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.01:194][483]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.01:306][495]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.01:657][532]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.01:657][532]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-07.01.01:869][554]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.03:645][746]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.03:646][746]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-07.01.05:810][985]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.08:330][265]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.08:782][316]LogHttp: Warning: 000002BA28351800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.12-07.01.08:783][316]LogHttp: Warning: 000002BA28351800: request failed, libcurl error: 0 (No error)
+[2019.09.12-07.01.08:783][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2ba286bff70 [can pipeline])
+[2019.09.12-07.01.08:783][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 1 (Re-using existing connection! (#54) with host datarouter.ol.epicgames.com)
+[2019.09.12-07.01.08:783][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.21.201) port 443 (#54))
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 7 (Closing connection 54)
+[2019.09.12-07.01.08:784][316]LogHttp: Warning: 000002BA28351800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.12-07.01.08:785][316]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFBC07F11-4725-9A7A-D934-709DBCC86568%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=a5c81b934149fabf028d249f11bdf399%7C7ac738af6fde4358a8810e58938c8bcc%7C5345615a-5100-4d21-99a3-dae9a81d4c83&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.12-07.01.08:955][335]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.12:314][710]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.12:314][710]LogTemp: Warning: Line trace hit: SM_TableRound_2
+[2019.09.12-07.01.18:194][384]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.22:024][825]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.22:516][879]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.22:920][924]LogTemp: Warning: Grab Pickup
+[2019.09.12-07.01.22:920][924]LogTemp: Warning: Line trace hit: SM_Chair_2
+[2019.09.12-07.01.24:988][164]LogTemp: Warning: Grab Released
+[2019.09.12-07.01.27:656][484]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.01.27:656][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-07.01.27:657][484]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.12-07.01.27:657][484]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.12-07.01.27:666][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.12-07.01.27:667][484]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.12-07.01.27:704][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.12-07.01.27:707][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.09.12-07.01.27:759][486]LogPlayLevel: Display: Destroying online subsystem :Context_13

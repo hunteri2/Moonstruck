@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MOONSTRUCK_V1_Pickup_generated_h
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_RPC_WRAPPERS
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_INCLASS_NO_PURE_DECLS \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_RPC_WRAPPERS
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUPickup(); \
 	friend struct Z_Construct_UClass_UPickup_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(UPickup)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_INCLASS \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUPickup(); \
 	friend struct Z_Construct_UClass_UPickup_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(UPickup)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_STANDARD_CONSTRUCTORS \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UPickup(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UPickup) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_ENHANCED_CONSTRUCTORS \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UPickup(UPickup&&); \
@@ -57,26 +57,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UPickup); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UPickup)
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_PRIVATE_PROPERTY_OFFSET
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_11_PROLOG
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_GENERATED_BODY_LEGACY \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_PRIVATE_PROPERTY_OFFSET
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_12_PROLOG
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_PRIVATE_PROPERTY_OFFSET \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_RPC_WRAPPERS \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_INCLASS \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_STANDARD_CONSTRUCTORS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_PRIVATE_PROPERTY_OFFSET \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_RPC_WRAPPERS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_INCLASS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_GENERATED_BODY \
+#define Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_PRIVATE_PROPERTY_OFFSET \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_INCLASS_NO_PURE_DECLS \
-	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_14_ENHANCED_CONSTRUCTORS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_PRIVATE_PROPERTY_OFFSET \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_INCLASS_NO_PURE_DECLS \
+	Moonstruck_v1_Source_Moonstruck_v1_Pickup_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
