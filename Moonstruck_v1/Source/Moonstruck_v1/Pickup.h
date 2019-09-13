@@ -30,8 +30,15 @@ public:
 
 private:
 	float Reach = 200.0f;
+	float mouseX;
+	float mouseY;
+	bool holding = false;
+	bool inspect = false;
+	FRotator DefaultRotation;
 
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
+	
+	
 
 	UInputComponent* InputController = nullptr;
 
@@ -39,6 +46,8 @@ private:
 
 	void Pickup();
 	void Release();
+	void Rotate();
+	void RotateRelease();
 	void FindInputController();
 	void FindPhysicsComponent();
 	const FHitResult GetFirstPhysicsBodyInReach() ;

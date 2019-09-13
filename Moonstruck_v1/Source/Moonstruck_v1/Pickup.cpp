@@ -4,6 +4,8 @@
 #include "Public/DrawDebugHelpers.h"
 #include "Public/CollisionQueryParams.h"
 #include "Engine/Classes/Components/PrimitiveComponent.h"
+#include "Runtime/Engine/Classes/Kismet/GameplayStatics.h"
+#include "Runtime/Engine/Classes/GameFramework/PlayerController.h"
 #include "PhysicsEngine/PhysicsHandleComponent.h"
 
 
@@ -37,12 +39,15 @@ void UPickup::FindInputController()
 	{
 		//bind the keys
 		InputController->BindAction("Pickup", IE_Pressed, this, &UPickup::Pickup);
-		InputController->BindAction("Pickup", IE_Released, this, &UPickup::Release);
+		InputController->BindAction("Rotate", IE_Pressed, this, &UPickup::Rotate);
+		InputController->BindAction("Rotate", IE_Released, this, &UPickup::RotateRelease);
+		
 	}
 	else
 	{
 		//Log the issue
 		UE_LOG(LogTemp, Error, TEXT("%s missingInput componet"), *GetOwner()->GetName())
+
 	}
 }
 
@@ -74,16 +79,18 @@ void UPickup::Pickup()
 		auto ActorHit = HitResult.GetActor();
 
 		//If we can attach the physics handle
-		if (ActorHit)
+		if (ActorHit && !holding)
 		{
+			DefaultRotation = PhysicsHandle->GetOwner()->GetActorRotation();
 			PhysicsHandle->GrabComponent(
 				ComponentToGrab,
 				NAME_None,
 				ComponentToGrab->GetOwner()->GetActorLocation(),true);
+			holding = true;
 
-			//ComponentToGrab->AttachToComponent();
-
+		
 		}
+		else { Release(); }
 	
 }
 
@@ -92,15 +99,40 @@ void UPickup::Release()
 	UE_LOG(LogTemp, Warning, TEXT("Grab Released"))
 
 		//releases physics handles
+		holding = false;
 		PhysicsHandle->ReleaseComponent();
+	
 }
 
+void UPickup::Rotate()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grab Rotate"))
+
+		//releases physics handles
+		inspect = true;
+}
+
+void UPickup::RotateRelease()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grab Rotate"))
+
+		//releases physics handles
+		PhysicsHandle->GetOwner()->SetActorRotation(DefaultRotation);
+		inspect = false;
+}
 
 // Called every frame TICK!
 void UPickup::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
+	///Get mouse coordinates for roation
+	UGameplayStatics::GetPlayerController(GetWorld(), 0)->GetMousePosition(mouseX, mouseY);
+	FRotator newRotation = FRotator (mouseY, mouseX, 0);
+	
+	//UE_LOG(LogTemp, Warning, TEXT("Mouse Location: %f, %f"), mouseX, mouseY);
+
+	//Pickup&Release Code
 	FVector PlayerViewPointLocation;
 	FRotator PlayerViewPointRotation;
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(OUT PlayerViewPointLocation, OUT PlayerViewPointRotation);
@@ -112,7 +144,14 @@ void UPickup::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponen
 	{
 		//need to move componet
 		PhysicsHandle->SetTargetLocation(LineTraceEnd);
+		
+		if (inspect) 
+		{
+			PhysicsHandle->SetTargetRotation(newRotation);
+		}
 	}
+
+
 
 }
 
