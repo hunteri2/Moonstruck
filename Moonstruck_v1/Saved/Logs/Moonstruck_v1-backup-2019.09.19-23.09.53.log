@@ -1,0 +1,1688 @@
+﻿Log file open, 09/19/19 18:58:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Moonstruck_v1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067486
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Umbra.Sketch -epicuserid=7ac738af6fde4358a8810e58938c8bcc -epiclocale=en-US
+LogInit: Base Directory: E:/Programs/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:348][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.19-22.58.59:348][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.19-22.58.59:349][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:349][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.19-22.58.59:358][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.19-22.58.59:359][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.19-22.58.59:359][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.19-22.58.59:359][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.19-22.58.59:362][  0]LogHAL: Display: Platform has ~ 16 GB [17125826560 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.19-22.58.59:362][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.19-22.58.59:362][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.19-22.58.59:362][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:362][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Scalability.ini]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.19-22.58.59:363][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Config/Windows/Engine.ini]
+[2019.09.19-22.58.59:363][  0]LogInit: Computer: DESKTOP-RERK209
+[2019.09.19-22.58.59:363][  0]LogInit: User: IdechaH
+[2019.09.19-22.58.59:363][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.09.19-22.58.59:363][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.19-22.58.59:363][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.09.19-22.58.59:363][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.19-22.58.59:363][  0]LogMemory: Process Physical Memory: 101.74 MB used, 101.75 MB peak
+[2019.09.19-22.58.59:363][  0]LogMemory: Process Virtual Memory: 101.57 MB used, 101.57 MB peak
+[2019.09.19-22.58.59:363][  0]LogMemory: Physical Memory: 7795.02 MB used,  8537.44 MB free, 16332.46 MB total
+[2019.09.19-22.58.59:363][  0]LogMemory: Virtual Memory: 4686.55 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.09.19-22.58.59:367][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.19-22.58.59:384][  0]LogInit: Using OS detected language (en-US).
+[2019.09.19-22.58.59:384][  0]LogInit: Using OS detected locale (en-US).
+[2019.09.19-22.58.59:384][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.19-22.58.59:557][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.19-22.58.59:597][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.19-22.58.59:597][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.19-22.58.59:792][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.19-22.58.59:792][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.19-22.58.59:816][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.09.19-22.58.59:816][  0]LogD3D11RHI:       8172/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.09.19-22.58.59:819][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.19-22.58.59:819][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.19-22.58.59:819][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.19-22.58.59:829][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.19-22.58.59:829][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.09.19-22.58.59:829][  0]LogWindows: EnumDisplayDevices:
+[2019.09.19-22.58.59:829][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.09.19-22.58.59:830][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:0 D:1)
+[2019.09.19-22.58.59:830][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:831][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:831][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:831][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:832][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:832][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.09.19-22.58.59:832][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2019.09.19-22.58.59:832][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.09.19-22.58.59:832][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.5.2 (internal:26.20.11015.5009, unified:26.20.11015.5009)
+[2019.09.19-22.58.59:832][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.09.19-22.58.59:832][  0]LogRHI: Texture pool is 5720 MB (70% of 8172 MB)
+[2019.09.19-22.58.59:888][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.19-22.58.59:898][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.09.19-22.59.00:145][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.19-22.59.00:153][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.19-22.59.00:162][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.19-22.59.00:170][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.19-22.59.00:179][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.19-22.59.00:188][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.19-22.59.00:196][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.19-22.59.00:205][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.19-22.59.00:209][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.19-22.59.00:242][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.19-22.59.00:242][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.19-22.59.00:242][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.19-22.59.00:242][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.19-22.59.00:243][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.19-22.59.00:244][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.19-22.59.00:261][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.19-22.59.00:261][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.19-22.59.00:276][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.19-22.59.00:276][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.19-22.59.00:283][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.19-22.59.00:291][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.19-22.59.00:298][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.19-22.59.00:306][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.19-22.59.00:331][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.19-22.59.00:331][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.19-22.59.00:331][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.19-22.59.00:339][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.19-22.59.00:378][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Intermediate/Shaders/WorkingDirectory/15116/).
+[2019.09.19-22.59.00:378][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Idecha Hunter/AppData/Local/Temp/UnrealShaderWorkingDir/9BE0F2E34E81CE896777E6BB765F221C/'.
+[2019.09.19-22.59.00:380][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.19-22.59.00:380][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.19-22.59.00:380][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.19-22.59.01:014][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.19-22.59.01:057][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Idecha Hunter/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.19-22.59.01:057][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Idecha Hunter/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.19-22.59.01:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.19-22.59.01:058][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.19-22.59.01:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.19-22.59.01:058][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.19-22.59.01:072][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.19-22.59.01:072][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.19-22.59.01:072][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.19-22.59.01:074][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Idecha Hunter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.19-22.59.01:074][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.19-22.59.01:074][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.19-22.59.01:096][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.19-22.59.01:100][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.19-22.59.01:100][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.19-22.59.01:152][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2019.09.19-22.59.01:452][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.19-22.59.01:593][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.19-22.59.01:594][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.19-22.59.01:594][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.19-22.59.01:594][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.19-22.59.01:594][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.19-22.59.01:602][  0]LogNetVersion: Moonstruck_v1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1608464151)
+[2019.09.19-22.59.02:021][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.049051 seconds
+[2019.09.19-22.59.02:029][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.09.19-22.59.02:029][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.09.19-22.59.02:029][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.19-22.59.02:821][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.19-22.59.02:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.19-22.59.02:894][  0]SourceControl: Source control is disabled
+[2019.09.19-22.59.02:894][  0]SourceControl: Source control is disabled
+[2019.09.19-22.59.02:895][  0]SourceControl: Source control is disabled
+[2019.09.19-22.59.02:896][  0]SourceControl: Source control is disabled
+[2019.09.19-22.59.02:979][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.19-22.59.03:155][  0]LogOcInput: OculusInput pre-init called
+[2019.09.19-22.59.03:161][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.19-22.59.03:161][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.19-22.59.03:229][  0]LogEngine: Initializing Engine...
+[2019.09.19-22.59.03:257][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.09.19-22.59.03:258][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.19-22.59.03:488][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.19-22.59.03:500][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.19-22.59.03:555][  0]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-22.59.03:569][  0]LogInit: FAudioDevice initialized.
+[2019.09.19-22.59.03:570][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.19-22.59.03:648][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Idecha Hunter/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.19-22.59.03:657][  0]LogInit: Texture streaming: Enabled
+[2019.09.19-22.59.03:672][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.19-22.59.03:737][  0]LogInit: Transaction tracking system initialized
+[2019.09.19-22.59.03:762][  0]BlueprintLog: New page: Editor Load
+[2019.09.19-22.59.03:821][  0]LocalizationService: Localization service is disabled
+[2019.09.19-22.59.04:041][  0]LogFileCache: Scanning file cache for directory 'E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Content/' took 0.00s
+[2019.09.19-22.59.04:041][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.19-22.59.04:042][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.19-22.59.04:207][  0]SourceControl: Source control is disabled
+[2019.09.19-22.59.04:207][  0]Cmd: MAP LOAD FILE="../../../../../../repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Content/Maps/Map_DevDebug.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.19-22.59.04:208][  0]LightingResults: New page: Lighting Build
+[2019.09.19-22.59.04:210][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-22.59.04:210][  0]MapCheck: New page: Map Check
+[2019.09.19-22.59.04:210][  0]LightingResults: New page: Lighting Build
+[2019.09.19-22.59.04:244][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.09.19-22.59.04:482][  0]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-22.59.04:488][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.19-22.59.04:526][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.09.19-22.59.04:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.19-22.59.04:527][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.09.19-22.59.04:527][  0]LogFileHelpers: Loading map 'Map_DevDebug' took 0.320
+[2019.09.19-22.59.04:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-22.59.04:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-22.59.04:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-22.59.04:667][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-22.59.04:672][  0]LogCollectionManager: Loaded 0 collections in 0.001054 seconds
+[2019.09.19-22.59.04:677][  0]LogFileCache: Scanning file cache for directory 'E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Saved/Collections/' took 0.00s
+[2019.09.19-22.59.04:677][  0]LogFileCache: Scanning file cache for directory 'E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Content/Developers/IdechaH/Collections/' took 0.00s
+[2019.09.19-22.59.04:677][  0]LogFileCache: Scanning file cache for directory 'E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Content/Collections/' took 0.00s
+[2019.09.19-22.59.04:677][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.09.19-22.59.04:687][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2869 classes and 682 folders.
+[2019.09.19-22.59.04:693][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.19-22.59.04:729][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.19-22.59.04:736][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.09.19-22.59.05:907][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.09.19-22.59.05:923][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.19-22.59.05:925][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.19-22.59.05:930][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.19-22.59.05:931][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.19-22.59.06:031][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2019.09.19-22.59.06:160][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.09.19-22.59.06:160][  0]LogLoad: (Engine Initialization) Total time: 7.64 seconds
+[2019.09.19-22.59.06:160][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.19-22.59.06:212][  0]LogAssetRegistry: Asset discovery search completed in 5.0604 seconds
+[2019.09.19-22.59.06:215][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.09.19-22.59.06:216][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000233 seconds (updated 0 objects)
+[2019.09.19-22.59.06:217][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.09.19-22.59.09:203][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-22.59.09:312][357]Candidate modules for hot reload:
+[2019.09.19-22.59.09:312][357]  Moonstruck_v1
+[2019.09.19-22.59.09:312][357]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,45 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.19-22.59.09:321][357]Warning: Starting HotReload took  0.0s.
+[2019.09.19-22.59.17:928][ 37]CompilerResultsLog: New page: Compilation - Sep 19, 2019, 2:59:17 PM
+[2019.09.19-22.59.17:929][ 37]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.19-22.59.17:929][ 37]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.19-22.59.17:929][ 37]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.19-22.59.17:929][ 37]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.3036037 seconds
+[2019.09.19-22.59.17:930][ 37]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.19-22.59.17:930][ 37]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.19-22.59.17:930][ 37]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-0045.lib
+[2019.09.19-22.59.17:930][ 37]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0045.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0045.exp
+[2019.09.19-22.59.17:930][ 37]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-0045.dll
+[2019.09.19-22.59.17:931][ 37]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0045.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-0045.suppressed.exp
+[2019.09.19-22.59.17:931][ 37]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.19-22.59.17:931][ 37]CompilerResultsLog: Total time in Parallel executor: 1.21 seconds
+[2019.09.19-22.59.17:931][ 37]CompilerResultsLog: Total execution time: 8.44 seconds
+[2019.09.19-22.59.17:931][ 37]LogMainFrame: MainFrame: Module compiling took 8.622 seconds
+[2019.09.19-22.59.17:964][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.09.19-22.59.17:979][ 37]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-22.59.17:980][ 37]Display: HotReload took  8.7s.
+[2019.09.19-22.59.21:376][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-22.59.21:395][ 59]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-22.59.21:396][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-22.59.21:396][ 59]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 2:59:21 PM)
+[2019.09.19-22.59.21:397][ 59]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.19-22.59.21:398][ 59]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-22.59.21:405][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007466s)
+[2019.09.19-22.59.21:407][ 59]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-22.59.21:407][ 59]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2019.09.19-22.59.21:407][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.009546s)
+[2019.09.19-22.59.21:441][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.09.19-22.59.21:487][ 59]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-22.59.21:495][ 59]LogInit: FAudioDevice initialized.
+[2019.09.19-22.59.21:519][ 59]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-22.59.21:522][ 59]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-18.59.21
+[2019.09.19-22.59.21:522][ 59]LogWorld: Bringing up level for play took: 0.002009
+[2019.09.19-22.59.21:523][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.09.19-22.59.21:543][ 59]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.19-22.59.21:545][ 59]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-22.59.21:545][ 59]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-22.59.21:545][ 59]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-22.59.21:545][ 59]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 1.062
+[2019.09.19-22.59.21:545][ 59]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-22.59.22:464][157]LogTemp: Warning: Grab Pickup
+[2019.09.19-22.59.22:465][157]LogTemp: Warning: Grab Released
+[2019.09.19-22.59.25:087][440]LogTemp: Warning: Grab Pickup
+[2019.09.19-22.59.25:087][440]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-22.59.25:087][440]LogTemp: Error: 70.311264,-171.801346,91.314499|-0.000096,-0.183289,0.000453|1.000000,1.000000,1.000000 <- Ths is the defaultRotation (000)
+[2019.09.19-22.59.25:087][440]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object (000)
+[2019.09.19-22.59.33:612][463]LogTemp: Warning: Grab Rotate
+[2019.09.19-22.59.35:129][645]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-22.59.35:129][645]LogTemp: Error: 302.520050,219.269897,161.885757|-0.000096,-0.183289,0.000453|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-22.59.35:129][645]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object (000)
+[2019.09.19-23.00.03:580][ 59]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.00.03:581][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.00.03:581][ 59]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.00.03:581][ 59]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.00.03:590][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.00.03:590][ 59]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.00.03:630][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.00.03:633][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.09.19-23.00.03:680][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.09.19-23.00.14:012][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.00.14:975][334]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.19-23.01.47:066][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.01.47:083][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.01.47:084][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.01.47:084][616]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:01:47 PM)
+[2019.09.19-23.01.47:084][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.01.47:091][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007034s)
+[2019.09.19-23.01.47:092][616]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.01.47:092][616]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2019.09.19-23.01.47:092][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008511s)
+[2019.09.19-23.01.47:124][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.09.19-23.01.47:167][616]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.01.47:174][616]LogInit: FAudioDevice initialized.
+[2019.09.19-23.01.47:179][616]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.01.47:181][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.01.47
+[2019.09.19-23.01.47:181][616]LogWorld: Bringing up level for play took: 0.001714
+[2019.09.19-23.01.47:181][616]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.09.19-23.01.47:183][616]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.01.47:183][616]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.01.47:183][616]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.01.47:184][616]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.7
+[2019.09.19-23.01.47:184][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.01.48:236][739]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.01.48:236][739]LogTemp: Warning: Grab Released
+[2019.09.19-23.01.51:105][ 83]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.01.51:105][ 83]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.01.51:105][ 83]LogTemp: Error: 70.207893,-171.866714,91.314445|0.000150,-0.123138,0.000253|1.000000,1.000000,1.000000 <- Ths is the defaultRotation (000)
+[2019.09.19-23.01.51:105][ 83]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object (000)
+[2019.09.19-23.02.03:903][618]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.02.11:133][482]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.02.11:133][482]LogTemp: Error: 104.291443,113.184372,191.245209|0.000150,-0.123138,0.000253|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.02.11:133][482]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object (000)
+[2019.09.19-23.02.14:642][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.02.14:643][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.02.14:643][903]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.02.14:643][903]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.02.14:654][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.02.14:654][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.02.14:691][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.02.14:693][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.19-23.02.14:744][905]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.09.19-23.04.33:535][486]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0002.dll
+[2019.09.19-23.04.34:551][490]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.19-23.04.34:554][490]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.19-23.04.34:598][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.09.19-23.04.34:628][490]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.09.19-23.04.34:632][490]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.19-23.04.34:704][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.09.19-23.04.34:719][490]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-23.04.34:722][490]Display: HotReload took  0.2s.
+[2019.09.19-23.04.37:971][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.04.38:062][668]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.04.38:082][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.38:082][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.04.38:082][668]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:04:38 PM)
+[2019.09.19-23.04.38:082][668]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.04.38:089][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006827s)
+[2019.09.19-23.04.38:090][668]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.04.38:091][668]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2019.09.19-23.04.38:091][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008463s)
+[2019.09.19-23.04.38:124][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.19-23.04.38:167][668]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.04.38:174][668]LogInit: FAudioDevice initialized.
+[2019.09.19-23.04.38:181][668]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.04.38:183][668]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.04.38
+[2019.09.19-23.04.38:184][668]LogWorld: Bringing up level for play took: 0.001714
+[2019.09.19-23.04.38:184][668]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.09.19-23.04.38:186][668]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.04.38:186][668]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.04.38:186][668]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.04.38:187][668]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.297
+[2019.09.19-23.04.38:187][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.39:448][815]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.04.39:448][815]LogTemp: Warning: Grab Released
+[2019.09.19-23.04.40:671][962]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.04.40:671][962]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.04.40:672][962]LogTemp: Error: 70.118729,-171.922791,91.314445|-0.000123,-0.070404,-0.000244|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.04.40:672][962]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.04.41:582][ 71]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.04.42:881][227]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.04.42:882][227]LogTemp: Error: 297.915283,-2.403496,134.564224|-0.000123,-0.070404,-0.000244|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.04.42:882][227]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.04.54:433][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.54:434][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.04.54:434][613]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.04.54:434][613]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.04.54:446][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.04.54:446][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.54:484][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.04.54:487][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.19-23.04.54:540][615]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.19-23.04.55:818][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.04.55:922][769]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.04.55:939][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.55:940][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.04.55:940][769]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:04:55 PM)
+[2019.09.19-23.04.55:940][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.04.55:947][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007088s)
+[2019.09.19-23.04.55:948][769]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.04.55:949][769]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2019.09.19-23.04.55:949][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008550s)
+[2019.09.19-23.04.55:982][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.19-23.04.56:031][769]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.04.56:038][769]LogInit: FAudioDevice initialized.
+[2019.09.19-23.04.56:042][769]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.04.56:045][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.04.56
+[2019.09.19-23.04.56:046][769]LogWorld: Bringing up level for play took: 0.002602
+[2019.09.19-23.04.56:046][769]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.09.19-23.04.56:048][769]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.04.56:048][769]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.04.56:049][769]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.04.56:049][769]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.435
+[2019.09.19-23.04.56:049][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.04.57:144][896]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.04.57:144][896]LogTemp: Warning: Grab Released
+[2019.09.19-23.04.58:402][ 47]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.04.58:402][ 47]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.04.58:402][ 47]LogTemp: Error: 70.204605,-171.868729,91.314354|0.000102,-0.121521,-0.000092|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.04.58:403][ 47]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.05.00:020][241]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.05.03:036][603]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.05.03:036][603]LogTemp: Error: 172.129059,40.914993,173.477264|0.000102,-0.121521,-0.000092|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.05.03:036][603]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.05.07:279][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.05.07:280][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.05.07:280][112]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.05.07:280][112]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.05.07:292][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.05.07:292][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.05.07:331][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.05.07:334][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.09.19-23.05.07:382][114]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.09.19-23.05.59:851][421]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0003.dll
+[2019.09.19-23.06.00:867][425]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.19-23.06.00:908][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.09.19-23.06.00:934][425]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2019.09.19-23.06.00:937][425]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.19-23.06.01:003][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.19-23.06.01:018][425]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-23.06.01:021][425]Display: HotReload took  0.2s.
+[2019.09.19-23.06.04:066][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.06.04:165][542]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.06.04:186][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.04:187][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.06.04:187][542]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:06:04 PM)
+[2019.09.19-23.06.04:187][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.06.04:194][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006845s)
+[2019.09.19-23.06.04:195][542]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.06.04:195][542]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2019.09.19-23.06.04:195][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008332s)
+[2019.09.19-23.06.04:229][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.09.19-23.06.04:273][542]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.06.04:281][542]LogInit: FAudioDevice initialized.
+[2019.09.19-23.06.04:291][542]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.06.04:293][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.06.04
+[2019.09.19-23.06.04:294][542]LogWorld: Bringing up level for play took: 0.001898
+[2019.09.19-23.06.04:294][542]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.09.19-23.06.04:296][542]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.06.04:296][542]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.06.04:297][542]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.06.04:297][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.187
+[2019.09.19-23.06.04:297][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.06:914][852]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.06.06:914][852]LogTemp: Warning: Grab Released
+[2019.09.19-23.06.08:956][ 97]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.06.08:956][ 97]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.06.08:957][ 97]LogTemp: Error: 70.177139,-171.886536,91.314423|-0.000061,-0.104828,-0.000183|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.06.08:957][ 97]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.06.12:861][564]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.06.12:862][564]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:869][565]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:877][566]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:886][567]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:894][568]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:903][569]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:911][570]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:919][571]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:928][572]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:936][573]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:944][574]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:953][575]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:961][576]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:969][577]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:978][578]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:986][579]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.12:994][580]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:003][581]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:011][582]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:019][583]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:028][584]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:036][585]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:044][586]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:053][587]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:061][588]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:069][589]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:078][590]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:086][591]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:094][592]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:103][593]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:111][594]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:119][595]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:128][596]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:136][597]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:144][598]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:152][599]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:161][600]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:169][601]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:178][602]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:186][603]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:194][604]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:203][605]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:211][606]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:219][607]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:227][608]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:236][609]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:244][610]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:253][611]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:260][612]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:269][613]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:278][614]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:286][615]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:294][616]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:303][617]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:311][618]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:319][619]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:328][620]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:336][621]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:344][622]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:353][623]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:361][624]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:369][625]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:377][626]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:386][627]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:394][628]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:403][629]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:411][630]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:419][631]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:428][632]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:436][633]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:444][634]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:453][635]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:461][636]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:469][637]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:478][638]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:486][639]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:494][640]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:504][641]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:511][642]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:519][643]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:527][644]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:536][645]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:544][646]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:553][647]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:561][648]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:569][649]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:578][650]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:586][651]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:594][652]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:603][653]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:611][654]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:619][655]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:628][656]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:636][657]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:640][658]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:652][659]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:660][660]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:669][661]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:677][662]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:685][663]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:694][664]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:702][665]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:710][666]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:719][667]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:727][668]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:735][669]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:744][670]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:752][671]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:760][672]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:769][673]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:777][674]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:785][675]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:794][676]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:802][677]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:810][678]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:819][679]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:828][680]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:836][681]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:845][682]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:853][683]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:861][684]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:869][685]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:878][686]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:886][687]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:894][688]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:903][689]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:911][690]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:919][691]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:928][692]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:936][693]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:944][694]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:953][695]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:961][696]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:969][697]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:978][698]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:986][699]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.13:994][700]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:002][701]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:011][702]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:019][703]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:028][704]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:036][705]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:044][706]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:053][707]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:061][708]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:069][709]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:078][710]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:086][711]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:094][712]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:102][713]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:111][714]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:119][715]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:127][716]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:136][717]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:144][718]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:152][719]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:161][720]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:169][721]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:177][722]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:186][723]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:194][724]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:202][725]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:211][726]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:219][727]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:227][728]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:236][729]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:244][730]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:252][731]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:261][732]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:269][733]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:277][734]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:285][735]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:294][736]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:302][737]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:310][738]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:319][739]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:327][740]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.14:336][741]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.06.14:336][741]LogTemp: Error: 217.611374,-6.282965,148.080521|-0.000061,-0.104828,-0.000183|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.06.14:336][741]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.06.31:964][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.31:965][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.06.31:965][853]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.06.31:966][853]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.06.31:973][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.06.31:973][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.32:011][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.06.32:014][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.19-23.06.32:065][855]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.09.19-23.06.39:743][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.06.39:859][741]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.06.39:876][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.39:876][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.06.39:877][741]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:06:39 PM)
+[2019.09.19-23.06.39:877][741]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.06.39:884][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006832s)
+[2019.09.19-23.06.39:885][741]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.06.39:885][741]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2019.09.19-23.06.39:885][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008278s)
+[2019.09.19-23.06.39:919][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.19-23.06.39:964][741]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.06.39:971][741]LogInit: FAudioDevice initialized.
+[2019.09.19-23.06.39:982][741]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.06.39:984][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.06.39
+[2019.09.19-23.06.39:984][741]LogWorld: Bringing up level for play took: 0.001741
+[2019.09.19-23.06.39:984][741]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.09.19-23.06.39:986][741]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.06.39:987][741]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.06.39:987][741]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.06.39:987][741]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.497
+[2019.09.19-23.06.39:987][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.41:149][877]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.06.41:149][877]LogTemp: Warning: Grab Released
+[2019.09.19-23.06.42:509][ 40]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.06.42:509][ 40]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.06.42:509][ 40]LogTemp: Error: 70.253731,-171.837967,91.314407|0.000116,-0.149200,0.000052|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.06.42:510][ 40]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.06.47:129][594]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.06.47:129][594]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:134][595]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:142][596]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:151][597]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:160][598]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:168][599]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:176][600]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:185][601]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:193][602]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:202][603]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:209][604]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:218][605]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:226][606]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:235][607]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:243][608]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:251][609]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:260][610]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:268][611]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:276][612]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:285][613]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:293][614]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:301][615]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:310][616]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:318][617]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:327][618]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:335][619]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:343][620]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:351][621]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:360][622]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:368][623]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:376][624]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:385][625]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:393][626]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:401][627]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:410][628]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:418][629]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:426][630]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:434][631]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:443][632]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:451][633]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:459][634]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:468][635]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:476][636]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:484][637]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:493][638]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:504][639]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:511][640]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:518][641]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:526][642]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:535][643]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:543][644]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:551][645]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:559][646]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:568][647]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:576][648]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:584][649]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:593][650]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:601][651]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:609][652]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:617][653]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:626][654]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:635][655]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:643][656]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:651][657]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:659][658]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:667][659]LogTemp: Warning: Inspect is true
+[2019.09.19-23.06.47:676][660]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.06.47:676][660]LogTemp: Error: 231.723907,91.279289,70.035187|0.000116,-0.149200,0.000052|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.06.47:676][660]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.06.54:410][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.54:410][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.06.54:411][468]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.06.54:411][468]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.06.54:419][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.06.54:419][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.06.54:456][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.06.54:459][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.09.19-23.06.54:515][471]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.09.19-23.07.08:105][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.07.19:210][143]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.07.19:230][143]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.07.19:231][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.07.19:231][143]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:07:19 PM)
+[2019.09.19-23.07.19:231][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.07.19:238][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006924s)
+[2019.09.19-23.07.19:239][143]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.07.19:240][143]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2019.09.19-23.07.19:240][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008662s)
+[2019.09.19-23.07.19:274][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.09.19-23.07.19:319][143]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.07.19:325][143]LogInit: FAudioDevice initialized.
+[2019.09.19-23.07.19:334][143]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.07.19:337][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.07.19
+[2019.09.19-23.07.19:337][143]LogWorld: Bringing up level for play took: 0.001857
+[2019.09.19-23.07.19:337][143]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.09.19-23.07.19:339][143]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.07.19:339][143]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.07.19:339][143]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.07.19:340][143]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.856
+[2019.09.19-23.07.19:340][143]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.07.21:486][397]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.07.21:486][397]LogTemp: Warning: Grab Released
+[2019.09.19-23.07.23:595][650]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.07.23:595][650]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.07.23:595][650]LogTemp: Error: 60.561436,-171.197083,219.639862|6.597334,-4.518008,-5.228397|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.07.23:595][650]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.07.27:019][ 61]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.07.27:020][ 61]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:027][ 62]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:035][ 63]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:045][ 64]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:053][ 65]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:061][ 66]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:070][ 67]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:078][ 68]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:087][ 69]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:095][ 70]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:103][ 71]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:112][ 72]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:120][ 73]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:128][ 74]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:136][ 75]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:145][ 76]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:153][ 77]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:162][ 78]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:170][ 79]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:178][ 80]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:186][ 81]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:195][ 82]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:203][ 83]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:211][ 84]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:220][ 85]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:228][ 86]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:236][ 87]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:245][ 88]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:253][ 89]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:261][ 90]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:270][ 91]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:278][ 92]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:287][ 93]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:295][ 94]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:303][ 95]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:311][ 96]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:320][ 97]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:328][ 98]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:336][ 99]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:344][100]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:353][101]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:361][102]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:370][103]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:378][104]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:387][105]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:394][106]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:403][107]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:411][108]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:419][109]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:428][110]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:436][111]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:444][112]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:453][113]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:461][114]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:469][115]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:477][116]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:486][117]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:494][118]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:503][119]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:511][120]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:519][121]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:527][122]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:535][123]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:544][124]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:552][125]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:561][126]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:569][127]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:578][128]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:586][129]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:594][130]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:603][131]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:611][132]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:619][133]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:629][134]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:637][135]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:644][136]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:653][137]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:661][138]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:669][139]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:677][140]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:686][141]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:694][142]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:702][143]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:711][144]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:719][145]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:727][146]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:736][147]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:744][148]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:752][149]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:760][150]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:769][151]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:777][152]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:785][153]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:794][154]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:802][155]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:811][156]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:820][157]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:828][158]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:836][159]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:845][160]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:853][161]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:861][162]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:870][163]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:878][164]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:886][165]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:895][166]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:903][167]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:911][168]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:920][169]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:928][170]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:936][171]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:944][172]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:952][173]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:960][174]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:969][175]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:978][176]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:986][177]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.27:995][178]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:003][179]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:011][180]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:020][181]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:028][182]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:036][183]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:044][184]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:052][185]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:060][186]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:069][187]LogTemp: Warning: Inspect is true
+[2019.09.19-23.07.28:077][188]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.07.28:078][188]LogTemp: Error: 237.190292,-63.526329,128.398315|6.597334,-4.518008,-5.228397|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.07.28:078][188]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.07.31:112][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.07.31:112][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.07.31:112][552]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.07.31:113][552]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.07.31:122][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.07.31:123][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.07.31:161][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.07.31:164][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.09.19-23.07.31:221][554]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.09.19-23.07.35:776][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.08.09:083][731]Candidate modules for hot reload:
+[2019.09.19-23.08.09:083][731]  Moonstruck_v1
+[2019.09.19-23.08.09:084][731]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,8362 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.19-23.08.09:087][731]Warning: Starting HotReload took  0.0s.
+[2019.09.19-23.08.17:765][523]CompilerResultsLog: New page: Compilation - Sep 19, 2019, 3:08:17 PM
+[2019.09.19-23.08.17:765][523]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.19-23.08.17:765][523]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.19-23.08.17:766][523]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.19-23.08.17:766][523]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.3515505 seconds
+[2019.09.19-23.08.17:766][523]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.19-23.08.17:767][523]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.19-23.08.17:767][523]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-8362.lib
+[2019.09.19-23.08.17:767][523]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-8362.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-8362.exp
+[2019.09.19-23.08.17:768][523]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-8362.dll
+[2019.09.19-23.08.17:768][523]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-8362.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-8362.suppressed.exp
+[2019.09.19-23.08.17:769][523]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.19-23.08.17:769][523]CompilerResultsLog: Total time in Parallel executor: 1.30 seconds
+[2019.09.19-23.08.17:769][523]CompilerResultsLog: Total execution time: 8.59 seconds
+[2019.09.19-23.08.17:769][523]LogMainFrame: MainFrame: Module compiling took 8.690 seconds
+[2019.09.19-23.08.17:803][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.09.19-23.08.17:829][523]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0004 seconds. Added 6 classes and 2 folders.
+[2019.09.19-23.08.17:833][523]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.19-23.08.17:899][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.09.19-23.08.17:914][523]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-23.08.17:914][523]Display: HotReload took  8.8s.
+[2019.09.19-23.08.22:500][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.08.22:519][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.08.22:520][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.08.22:520][949]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:08:22 PM)
+[2019.09.19-23.08.22:520][949]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.08.22:527][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006689s)
+[2019.09.19-23.08.22:528][949]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.08.22:528][949]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2019.09.19-23.08.22:528][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008178s)
+[2019.09.19-23.08.22:563][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.19-23.08.22:605][949]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.08.22:612][949]LogInit: FAudioDevice initialized.
+[2019.09.19-23.08.22:620][949]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.08.22:622][949]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.08.22
+[2019.09.19-23.08.22:622][949]LogWorld: Bringing up level for play took: 0.001722
+[2019.09.19-23.08.22:623][949]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.09.19-23.08.22:625][949]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.08.22:625][949]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.08.22:625][949]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.08.22:625][949]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug 0.142
+[2019.09.19-23.08.22:626][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.08.23:657][ 59]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.08.23:657][ 59]LogTemp: Warning: Grab Released
+[2019.09.19-23.08.25:032][206]LogTemp: Warning: Grab Pickup
+[2019.09.19-23.08.25:032][206]LogTemp: Warning: Line trace hit: SM_Statue_25
+[2019.09.19-23.08.25:032][206]LogTemp: Error: 70.147499,-171.905182,91.314430|-0.000123,-0.087433,0.000215|1.000000,1.000000,1.000000 <- Ths is the defaultRotation.
+[2019.09.19-23.08.25:032][206]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object.
+[2019.09.19-23.08.26:029][325]LogTemp: Warning: Grab Rotate
+[2019.09.19-23.08.26:029][325]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:033][326]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:042][327]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:050][328]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:059][329]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:067][330]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:075][331]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:084][332]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:092][333]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:100][334]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:109][335]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:117][336]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:125][337]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:134][338]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:142][339]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:150][340]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:159][341]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:167][342]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:175][343]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:184][344]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:192][345]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:200][346]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:209][347]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:217][348]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:225][349]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:234][350]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:242][351]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:250][352]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:259][353]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:267][354]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:275][355]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:283][356]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:292][357]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:300][358]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:309][359]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:317][360]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:326][361]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:333][362]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:342][363]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:350][364]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:358][365]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:367][366]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:375][367]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:384][368]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:392][369]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:400][370]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:408][371]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:417][372]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:425][373]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:433][374]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:442][375]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:450][376]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:458][377]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:467][378]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:475][379]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:483][380]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:492][381]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:501][382]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:509][383]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:517][384]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:525][385]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:533][386]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:542][387]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:550][388]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:558][389]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:567][390]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:575][391]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:583][392]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:592][393]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:601][394]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:609][395]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:618][396]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:626][397]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:634][398]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:643][399]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:651][400]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:659][401]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:668][402]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:676][403]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:684][404]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:692][405]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:701][406]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:709][407]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:717][408]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:726][409]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:734][410]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:742][411]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:751][412]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:759][413]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:767][414]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:776][415]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:784][416]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:792][417]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:801][418]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:809][419]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:818][420]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:826][421]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:834][422]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:842][423]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:851][424]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:859][425]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:867][426]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:876][427]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:884][428]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:892][429]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:901][430]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:909][431]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:917][432]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:926][433]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:934][434]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:942][435]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:951][436]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:959][437]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:968][438]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:976][439]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:984][440]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.26:993][441]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:001][442]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:009][443]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:018][444]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:026][445]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:034][446]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:043][447]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:051][448]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:059][449]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:068][450]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:076][451]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:084][452]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:092][453]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:101][454]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:109][455]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:118][456]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:126][457]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:134][458]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:142][459]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:151][460]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:160][461]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:167][462]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:176][463]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:184][464]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:192][465]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:201][466]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:209][467]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:218][468]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:226][469]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:234][470]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:243][471]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:251][472]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:259][473]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:267][474]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:276][475]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:284][476]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:292][477]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:300][478]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:309][479]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:317][480]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:325][481]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:334][482]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:342][483]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:350][484]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:359][485]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:367][486]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:375][487]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:384][488]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:392][489]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:400][490]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:409][491]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:417][492]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:425][493]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:434][494]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:442][495]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:450][496]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:459][497]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:467][498]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:475][499]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:484][500]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:492][501]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:504][502]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:516][503]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:523][504]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:532][505]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:538][506]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:546][507]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:556][508]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:563][509]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:571][510]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:580][511]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:588][512]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:596][513]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:605][514]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:613][515]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:621][516]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:630][517]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:638][518]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:646][519]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:655][520]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:663][521]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:671][522]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:680][523]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:688][524]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:696][525]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:705][526]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:713][527]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:721][528]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:729][529]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:738][530]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:746][531]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:754][532]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:763][533]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:771][534]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:779][535]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:788][536]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:796][537]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:804][538]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:813][539]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:821][540]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:830][541]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:838][542]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:847][543]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:855][544]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:863][545]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:871][546]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:880][547]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:888][548]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:896][549]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:904][550]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:914][551]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:922][552]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:930][553]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:939][554]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:947][555]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:955][556]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:964][557]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:972][558]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:980][559]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:989][560]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.27:997][561]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:005][562]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:013][563]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:022][564]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:030][565]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:038][566]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:047][567]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:055][568]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:063][569]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:072][570]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:080][571]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:088][572]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:097][573]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:105][574]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:113][575]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:122][576]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:130][577]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:138][578]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:147][579]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:155][580]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:163][581]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:172][582]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:180][583]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:188][584]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:196][585]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:205][586]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:213][587]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:222][588]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:230][589]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:238][590]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:246][591]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:255][592]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:263][593]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:271][594]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:280][595]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:288][596]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:296][597]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:305][598]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:313][599]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:321][600]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:330][601]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:338][602]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:346][603]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:355][604]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:363][605]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:371][606]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:380][607]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:388][608]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:396][609]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:405][610]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:413][611]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:421][612]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:430][613]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:438][614]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:446][615]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:455][616]LogTemp: Warning: Inspect is true
+[2019.09.19-23.08.28:463][617]LogTemp: Warning: Grab RotateReleased
+[2019.09.19-23.08.28:463][617]LogTemp: Error: 207.340881,-13.980074,88.323433|-0.000123,-0.087433,0.000215|1.000000,1.000000,1.000000 <- This is what its reset to)
+[2019.09.19-23.08.28:464][617]LogTemp: Error: SM_Statue_25 <- Ths is the name of the object
+[2019.09.19-23.08.32:930][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.08.32:931][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.08.32:931][153]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.08.32:932][153]LogWorld: UWorld::CleanupWorld for Map_DevDebug, bSessionEnded=true, bCleanupResources=true
+[2019.09.19-23.08.32:940][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.19-23.08.32:940][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.08.32:978][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.19-23.08.32:981][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.09.19-23.08.33:039][155]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.09.19-23.09.35:263][533]LogHotReload: New module detected: UE4Editor-Moonstruck_v1-0005.dll
+[2019.09.19-23.09.36:278][537]LogHotReload: Starting Hot-Reload from IDE
+[2019.09.19-23.09.36:318][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.09.19-23.09.36:342][537]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2019.09.19-23.09.36:345][537]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.19-23.09.36:412][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.09.19-23.09.36:427][537]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-23.09.36:429][537]Display: HotReload took  0.2s.
+[2019.09.19-23.09.40:618][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.19-23.09.40:728][673]Candidate modules for hot reload:
+[2019.09.19-23.09.40:728][673]  Moonstruck_v1
+[2019.09.19-23.09.40:728][673]Launching UnrealBuildTool... [E:/Programs/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Moonstruck_v1,2225 Win64 Development -TargetType=Editor -Project="E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject" "E:/repos/MoonStruck_01/Moonstruck/Moonstruck_v1/Moonstruck_v1.uproject"  -IgnoreJunk]
+[2019.09.19-23.09.40:731][673]Warning: Starting HotReload took  0.0s.
+[2019.09.19-23.09.49:302][520]CompilerResultsLog: New page: Compilation - Sep 19, 2019, 3:09:49 PM
+[2019.09.19-23.09.49:302][520]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\repos\MoonStruck_01\Moonstruck).
+[2019.09.19-23.09.49:302][520]CompilerResultsLog: Parsing headers for Moonstruck_v1Editor
+[2019.09.19-23.09.49:303][520]CompilerResultsLog:   Running UnrealHeaderTool "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Moonstruck_v1.uproject" "E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\Moonstruck_v1Editor\Development\Moonstruck_v1Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.09.19-23.09.49:303][520]CompilerResultsLog: Reflection code generated for Moonstruck_v1Editor in 6.3206122 seconds
+[2019.09.19-23.09.49:303][520]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (E:\Programs\Visual Studios\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.09.19-23.09.49:304][520]CompilerResultsLog: Building 3 actions with 12 processes...
+[2019.09.19-23.09.49:304][520]CompilerResultsLog:   [1/3] UE4Editor-Moonstruck_v1-2225.lib
+[2019.09.19-23.09.49:304][520]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-2225.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-2225.exp
+[2019.09.19-23.09.49:304][520]CompilerResultsLog:   [2/3] UE4Editor-Moonstruck_v1-2225.dll
+[2019.09.19-23.09.49:304][520]CompilerResultsLog:      Creating library E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-2225.suppressed.lib and object E:\repos\MoonStruck_01\Moonstruck\Moonstruck_v1\Intermediate\Build\Win64\UE4Editor\Development\Moonstruck_v1\UE4Editor-Moonstruck_v1-2225.suppressed.exp
+[2019.09.19-23.09.49:305][520]CompilerResultsLog:   [3/3] Moonstruck_v1Editor.target
+[2019.09.19-23.09.49:305][520]CompilerResultsLog: Total time in Parallel executor: 1.23 seconds
+[2019.09.19-23.09.49:305][520]CompilerResultsLog: Total execution time: 8.49 seconds
+[2019.09.19-23.09.49:306][520]LogMainFrame: MainFrame: Module compiling took 8.584 seconds
+[2019.09.19-23.09.49:338][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.09.19-23.09.49:363][520]LogContentBrowser: Native class hierarchy updated for 'Moonstruck_v1' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2019.09.19-23.09.49:367][520]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.09.19-23.09.49:434][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.09.19-23.09.49:449][520]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2870 classes and 684 folders.
+[2019.09.19-23.09.49:449][520]Display: HotReload took  8.7s.
+[2019.09.19-23.09.52:068][781]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.19-23.09.52:090][781]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.09.52:090][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.19-23.09.52:091][781]PIE: New page: PIE session: Map_DevDebug (Sep 19, 2019, 3:09:52 PM)
+[2019.09.19-23.09.52:091][781]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_DevDebug
+[2019.09.19-23.09.52:098][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007284s)
+[2019.09.19-23.09.52:099][781]LogAIModule: Creating AISystem for world Map_DevDebug
+[2019.09.19-23.09.52:099][781]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2019.09.19-23.09.52:100][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_DevDebug.Map_DevDebug to /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug (0.008837s)
+[2019.09.19-23.09.52:134][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.09.19-23.09.52:177][781]LogInit: XAudio2 using 'Logitech Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.19-23.09.52:185][781]LogInit: FAudioDevice initialized.
+[2019.09.19-23.09.52:196][781]LogLoad: Game class is 'DeafaultMoonstruckGameMode_C'
+[2019.09.19-23.09.52:198][781]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_DevDebug.Map_DevDebug up for play (max tick rate 0) at 2019.09.19-19.09.52
+[2019.09.19-23.09.52:198][781]LogWorld: Bringing up level for play took: 0.001874
+[2019.09.19-23.09.52:199][781]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.09.19-23.09.52:201][781]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.09.52:201][781]LogTemp: Warning: The token is: SM_Statue_25
+[2019.09.19-23.09.52:202][781]LogTemp: Warning: The token is: SM_Chair_2
+[2019.09.19-23.09.52:202][781]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Map_DevDebug -0.282
+[2019.09.19-23.09.52:202][781]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug' with GeneratedClass '/Game/Maps/Map_DevDebug.Map_DevDebug_C' with ClassGeneratedBy '/Game/Maps/Map_DevDebug.Map_DevDebug:PersistentLevel.Map_DevDebug'
+[2019.09.19-23.09.53:117][781]LogWindows: Error: === Critical error: ===
+[2019.09.19-23.09.53:117][781]LogWindows: Error: 
+[2019.09.19-23.09.53:117][781]LogWindows: Error: Fatal error!
+[2019.09.19-23.09.53:117][781]LogWindows: Error: 
+[2019.09.19-23.09.53:117][781]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000bf
+[2019.09.19-23.09.53:117][781]LogWindows: Error: 
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9b50755a3 UE4Editor-Moonstruck_v1-2225.dll!UPickup::TickComponent() [e:\repos\moonstruck_01\moonstruck\moonstruck_v1\source\moonstruck_v1\pickup.cpp:154]
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c254f6e0 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c257ddf4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c326f9b3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c327cba7 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9e05f4e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9e05f510a UE4Editor-Core.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c329bd9d UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c32a1ed2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c2a96e1f UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c2aa26ae UE4Editor-Engine.dll!UnknownFunction []
+[2019.09.19-23.09.53:117][781]LogWindows: Error: [Callstack] 0x00007ff9c0cae00b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff9c1504b16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff6a0277b0a UE4Editor.exe!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff6a028a91c UE4Editor.exe!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff6a028a9fa UE4Editor.exe!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff6a029b92c UE4Editor.exe!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ff6a029e60e UE4Editor.exe!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ffa16817bd4 KERNEL32.DLL!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: [Callstack] 0x00007ffa181ecee1 ntdll.dll!UnknownFunction []
+[2019.09.19-23.09.53:118][781]LogWindows: Error: 
+[2019.09.19-23.09.53:132][781]LogExit: Executing StaticShutdownAfterError
+[2019.09.19-23.09.53:135][781]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.09.19-23.09.53:146][781]Log file closed, 09/19/19 19:09:53

@@ -6,6 +6,7 @@
 #include "Components/ActorComponent.h"
 #include "PhysicsEngine/PhysicsHandleComponent.h"
 #include "Components/InputComponent.h"
+#include "GameFramework/Actor.h"
 #include "Pickup.generated.h"
 
 
@@ -35,7 +36,8 @@ private:
 	bool holding = false;
 	bool inspect = false;
 	FRotator DefaultRotation;
-
+	UPrimitiveComponent* CompToGrab;
+	AActor* ActorHit;
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 	
 	

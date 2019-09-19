@@ -7,6 +7,8 @@
 #include "Runtime/Engine/Classes/Kismet/GameplayStatics.h"
 #include "Runtime/Engine/Classes/GameFramework/PlayerController.h"
 #include "PhysicsEngine/PhysicsHandleComponent.h"
+#include <string>
+#include <iostream>
 
 
 #define OUT
@@ -75,17 +77,23 @@ void UPickup::Pickup()
 
 		//Try and reach any available actors
 		auto HitResult = GetFirstPhysicsBodyInReach();
-		auto ComponentToGrab = HitResult.GetComponent();
+
+	//switch the initializations
+		  CompToGrab = HitResult.GetComponent();
 		auto ActorHit = HitResult.GetActor();
 
 		//If we can attach the physics handle
 		if (ActorHit && !holding)
 		{
-			DefaultRotation = PhysicsHandle->GetOwner()->GetActorRotation();
+			DefaultRotation = CompToGrab->GetOwner()->GetTransform().GetRotation().Rotator();
+			
+				UE_LOG(LogTemp, Error, TEXT("%s <- Ths is the defaultRotation."), *CompToGrab->GetOwner()->GetTransform().ToString())
+				UE_LOG(LogTemp, Error, TEXT("%s <- Ths is the name of the object."), *CompToGrab->GetOwner()->GetName())
+
 			PhysicsHandle->GrabComponent(
-				ComponentToGrab,
+				CompToGrab,
 				NAME_None,
-				ComponentToGrab->GetOwner()->GetActorLocation(),true);
+				CompToGrab->GetOwner()->GetActorLocation(),true);
 			holding = true;
 
 		
@@ -114,11 +122,14 @@ void UPickup::Rotate()
 
 void UPickup::RotateRelease()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Grab Rotate"))
+	UE_LOG(LogTemp, Warning, TEXT("Grab RotateReleased"))
 
-		//releases physics handles
-		PhysicsHandle->GetOwner()->SetActorRotation(DefaultRotation);
+		//reset the rotation to it's origin
 		inspect = false;
+		CompToGrab->GetOwner()->SetActorRotation(DefaultRotation);
+		UE_LOG(LogTemp, Error, TEXT("%s <- This is what its reset to)"), *CompToGrab->GetOwner()->GetTransform().ToString())
+		UE_LOG(LogTemp, Error, TEXT("%s <- Ths is the name of the object"), *CompToGrab->GetOwner()->GetName())
+		
 }
 
 // Called every frame TICK!
@@ -140,6 +151,8 @@ void UPickup::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponen
 	//Draw a trace to visualize
 	FVector LineTraceEnd = PlayerViewPointLocation + PlayerViewPointRotation.Vector() * Reach;
 
+	
+
 	if (PhysicsHandle->GrabbedComponent)
 	{
 		//need to move componet
@@ -147,6 +160,7 @@ void UPickup::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponen
 		
 		if (inspect) 
 		{
+			//UE_LOG(LogTemp, Warning, TEXT("Inspect is true"))
 			PhysicsHandle->SetTargetRotation(newRotation);
 		}
 	}
